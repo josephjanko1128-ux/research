@@ -1,0 +1,303 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage[margin=25mm]{geometry}
+\usepackage{adjustbox}
+
+\title{ECMT 676 Assignment \#5 }
+\author{Joseph Janko}
+\date{April 3, 2020}
+
+\begin{document}
+\maketitle
+
+\part*{Part A}
+
+\section*{Question 1}
+
+\textbf{Show  the  distribution  of  birth  weights  around  the  1500-gram  cutoff  in  three  ways.   Plot  thefrequencies using 1-gram bins and 10-gram bins.  [Be careful not pool together observations acrossthe threshold.]
+Is the distribution of birth weights smooth?}
+\newline \newline
+* Please note that Figure 1 is the histogram and Figure 2 is the scatter plot for the case of 1-gram bins. Figure 3 is the histogram and Figure 4 is the scatter plot for the results of 10-gram bin.
+\newline
+\newline
+Conclusion: In both the cases of the 1-gram and 10-gram bins, we observe clustered peaks corresponding to observations with birth weight recorded at the exact ounce. Obviously this phenomena results in the distribution is not smooth.
+
+\begin{table}[H]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Birth Weights Summary Statistics}
+\begin{tabular}{l*{1}{ccccc}}
+\hline\hline
+            &         Obs&        Mean&    Std.Dev.&         Min&         Max\\
+\hline
+bweight\_normalized&      376408&    11.57565&    89.01614&        -150&         150\\
+\hline\hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{partA_q1_bin_01_histogram.png}
+\end{center}
+\caption{1-gram Bin Histogram}
+\label{fig:figure1}
+\end{figure}
+
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{partA_q1_bin_01_scatter.png}
+\end{center}
+\caption{1-gram Bin Scatter}
+\label{fig:figure2}
+
+\end{figure}
+
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{partA_q1_bin_10_historgram.png}
+\end{center}
+\caption{10-gram Bin Histogram}
+\label{fig:figure3}
+\end{figure}
+
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{partA_q1_bin_10_scatter.png}
+\end{center}
+\caption{10-gram Bin Scatter}
+\label{fig:figure4}
+
+
+\end{figure}
+
+
+\section*{Question 2}
+\textbf{Using the 1-gram bins and associated frequencies from part 1a as your observations, estimate whether the distribution is discontinuous at the 1500-gram threshold.  Estimate the discontinuity using a regression that is linear in birthweights, allowing the slope to be different on each side of the cutoff, using bandwidths of 150 grams and 50 grams.} We will estimate the RDD using the formula below, which is taken from the class notes.
+\newline \newline 
+
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{Screenshot from 2020-04-02 13-48-13.png}
+\end{center}
+\label{fig:figure5}
+\end{figure}
+
+
+Please note that $\alpha$ is represented by the constant term. $\theta$ is represented by bwt\_indicator. $\beta$ is represented by bin\_01. The interaction\_term is represented by gamma in the above equation. Since the coefficient of bwt\_indicator nor interaction term does not have a significant p-value less than .05, The running variable is smooth across the threshold for both  bandwidths.
+
+\begin{table}[H]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Results for Q2 \label{q2}}
+\begin{tabular}{l*{2}{c}}
+\toprule
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}\\
+                    &\multicolumn{1}{c}{bin=1-gram Bandwidth=150}&\multicolumn{1}{c}{bin=1-gram Bandwidth=50}\\
+\midrule
+bwt\_indicator       &       433.9         &      1538.0         \\
+                    &     (970.8)         &    (1555.9)         \\
+\addlinespace
+bin\_01              &      -1.894         &      -5.125         \\
+                    &     (6.499)         &     (7.425)         \\
+\addlinespace
+interaction\_term    &       3.282         &      -29.37         \\
+                    &     (11.83)         &     (44.20)         \\
+\addlinespace
+Constant            &       909.5         &       708.3         \\
+                    &     (558.3)         &     (465.3)         \\
+\midrule
+Observations        &         301         &         101         \\
+\(R^{2}\)           &       0.003         &       0.014         \\
+Adjusted \(R^{2}\)  &      -0.008         &      -0.016         \\
+\bottomrule
+\multicolumn{3}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{3}{l}{\footnotesize \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{tabular}
+\end{table}
+
+
+\section*{Question 3}
+
+\textbf{Are  the  results  sensitive  to  the  choice  of  bandwidth?   Does  the  RD  design  pass  the  “balanced covariates test?”}
+\newline \newline
+Please note that white in the tables below indicate the mother's race. In addition LessHS\_Edu is indcation of the mother having less than high school education. For both white mothers and mothers with less than high school education the bwt\_indicator and bweight\_normalized is insignifcant for every choice of bandwith. The interaction term is insignificant for every iteration but a bandwith of 90g and when the mother has less than high school education. Furthermore the covariates estimates are all within the standard error estimation of each other at each bandwidth. The RD design passes the “balanced covariate test".
+
+\begin{table}[H]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Results for Q3 Triangle Kernel Weights \label{q3tri}}
+\begin{tabular}{l*{2}{c}}
+\toprule
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}\\
+                    &\multicolumn{1}{c}{Bwth=90 white}&\multicolumn{1}{c}{Bwth=90 LessHS\_Edu}\\
+\midrule
+bwt\_indicator       &     0.00482         &     0.00474         \\
+                    &   (0.00479)         &   (0.00473)         \\
+\addlinespace
+bweight\_normalized  &   -0.000110         &   0.0000313         \\
+                    & (0.0000826)         & (0.0000816)         \\
+\addlinespace
+interaction\_term    &    0.000188         &   -0.000202\sym{*}  \\
+                    &  (0.000103)         &  (0.000102)         \\
+\addlinespace
+Constant            &       0.654\sym{***}&       0.276\sym{***}\\
+                    &   (0.00404)         &   (0.00398)         \\
+\midrule
+Observations        &      230248         &      209819         \\
+\(R^{2}\)           &       0.000         &       0.000         \\
+Adjusted \(R^{2}\)  &       0.000         &       0.000         \\
+Pseudo \(R^{2}\)    &                     &                     \\
+\bottomrule
+\multicolumn{3}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{3}{l}{\footnotesize \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{tabular}
+\end{table}
+
+\begin{table}[H]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Results for Q3 Triangle Kernel Weights \label{q3tri}}
+\begin{tabular}{l*{2}{c}}
+\toprule
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}\\
+                    &\multicolumn{1}{c}{Bwth=60 white}&\multicolumn{1}{c}{Bwth=60 LessHS\_Edu}\\
+\midrule
+bwt\_indicator       &     0.00843         &     0.00199         \\
+                    &   (0.00633)         &   (0.00626)         \\
+\addlinespace
+bweight\_normalized  &   -0.000220         &    0.000153         \\
+                    &  (0.000163)         &  (0.000161)         \\
+\addlinespace
+interaction\_term    &    0.000240         &   -0.000332         \\
+                    &  (0.000198)         &  (0.000197)         \\
+\addlinespace
+Constant            &       0.651\sym{***}&       0.279\sym{***}\\
+                    &   (0.00562)         &   (0.00555)         \\
+\midrule
+Observations        &      158693         &      144608         \\
+\(R^{2}\)           &       0.000         &       0.000         \\
+Adjusted \(R^{2}\)  &       0.000         &       0.000         \\
+Pseudo \(R^{2}\)    &                     &                     \\
+\bottomrule
+\multicolumn{3}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{3}{l}{\footnotesize \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{tabular}
+\end{table}
+
+\begin{table}[H]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Results for Q3 Triangle Kernel Weights \label{q3tri}}
+\begin{tabular}{l*{2}{c}}
+\toprule
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}\\
+                    &\multicolumn{1}{c}{Bwth=30 white}&\multicolumn{1}{c}{Bwth=30 LessHS\_Edu}\\
+\midrule
+bwt\_indicator       &     0.00712         &   -0.000952         \\
+                    &    (0.0111)         &    (0.0109)         \\
+\addlinespace
+bweight\_normalized  &   -0.000179         &    0.000395         \\
+                    &  (0.000459)         &  (0.000452)         \\
+\addlinespace
+interaction\_term    &    0.000397         &    -0.00115         \\
+                    &  (0.000628)         &  (0.000619)         \\
+\addlinespace
+Constant            &       0.652\sym{***}&       0.284\sym{***}\\
+                    &    (0.0105)         &    (0.0104)         \\
+\midrule
+Observations        &       68207         &       62089         \\
+\(R^{2}\)           &       0.000         &       0.000         \\
+Adjusted \(R^{2}\)  &      -0.000         &       0.000         \\
+Pseudo \(R^{2}\)    &                     &                     \\
+\bottomrule
+\multicolumn{3}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{3}{l}{\footnotesize \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{tabular}
+\end{table}
+
+
+
+
+
+
+\part*{Part B}
+
+\section*{Question 1}
+\textbf{Estimate the effect of very low birth weight classification on one-year mortality (agedth5) usingthe same specifications as those in part A.3 but use robust standard errors.  Are the estimates sensitive to the bandwidth?}
+\newline \newline
+The coefficient of bwt\_indicator is positive and significant at the 0.05 significance level for every bandwidth. The bweight\_normalized coefficient is negative and significant at every bandwdith. We see in the 60$-$g and 90$-$g cases the interaction term is not significant$,$ however$,$ the 30$-$g case is signficant. This gives evidence that the slope between one-year mortality and birth weight for children below 1500 grams and above 1500 grams are very similar.
+
+\begin{table}[H]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Output for Part B Q1, Note the Dependent Var, One-year Mortality \label{bq1}}
+\begin{tabular}{l*{3}{c}}
+\toprule
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+                    &\multicolumn{1}{c}{Bwth=90 TriKernelWght}&\multicolumn{1}{c}{Bwth=60 TriKernelWght}&\multicolumn{1}{c}{Bwth=30 TriKernelWght}\\
+\midrule
+bwt\_indicator       &      0.0114\sym{***}&      0.0161\sym{***}&      0.0263\sym{***}\\
+                    &   (0.00234)         &   (0.00302)         &   (0.00507)         \\
+\addlinespace
+bweight\_normalized  &   -0.000166\sym{***}&   -0.000279\sym{***}&   -0.000554\sym{**} \\
+                    & (0.0000397)         & (0.0000756)         &  (0.000207)         \\
+\addlinespace
+interaction\_term    &  -0.0000858         &   -0.000128         &    -0.00112\sym{***}\\
+                    & (0.0000506)         & (0.0000952)         &  (0.000299)         \\
+\addlinespace
+Constant            &      0.0525\sym{***}&      0.0497\sym{***}&      0.0445\sym{***}\\
+                    &   (0.00193)         &   (0.00260)         &   (0.00472)         \\
+\midrule
+Observations        &      230248         &      158693         &       68207         \\
+\(R^{2}\)           &       0.000         &       0.001         &       0.001         \\
+Adjusted \(R^{2}\)  &       0.000         &       0.000         &       0.001         \\
+Pseudo \(R^{2}\)    &                     &                     &                     \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{tabular}
+\end{table}
+
+
+\section*{Question 2}
+\textbf{Repeat B.1 after dropping observations that fall exactly at the 1500-gram cutoff.  Have the results changed?  Should RD estimates ever be sensitive to dropping observations exactly at the cutoff? Explain.}
+\newline \newline
+There appears to be change in the ouput from removing observations at the 1500-gram cutoff. We observe that the coefficient of bwt\_indicator is still significant at the 5 percent level, however, the magnitudes of the coefficient become smaller in comparison to Part B Question 1 for every chosen bandwith. The interaction terms for all bandwiths are not signficant at the 5 percent level. RD estimates compare the mean expected outcomes below and above the cutoff, thereby the estimate should not be changed by removing the values at the 1500-g.
+
+\begin{table}[H]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Output for Part B Q2, Note the Dependent Var, One-year Mortality \label{bq2}}
+\begin{tabular}{l*{3}{c}}
+\toprule
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+                    &\multicolumn{1}{c}{Bwth=90 TriKernelWght}&\multicolumn{1}{c}{Bwth=60 TriKernelWght}&\multicolumn{1}{c}{Bwth=30 TriKernelWght}\\
+\midrule
+bwt\_indicator       &     0.00650\sym{**} &      0.0101\sym{***}&      0.0175\sym{***}\\
+                    &   (0.00235)         &   (0.00303)         &   (0.00508)         \\
+\addlinespace
+bweight\_normalized  &   -0.000166\sym{***}&   -0.000279\sym{***}&   -0.000554\sym{**} \\
+                    & (0.0000397)         & (0.0000756)         &  (0.000207)         \\
+\addlinespace
+interaction\_term    &   0.0000226         &   0.0000771         &   -0.000153         \\
+                    & (0.0000506)         & (0.0000954)         &  (0.000291)         \\
+\addlinespace
+Constant            &      0.0525\sym{***}&      0.0497\sym{***}&      0.0445\sym{***}\\
+                    &   (0.00193)         &   (0.00260)         &   (0.00472)         \\
+\midrule
+Observations        &      226704         &      155149         &       64663         \\
+\(R^{2}\)           &       0.000         &       0.000         &       0.000         \\
+Adjusted \(R^{2}\)  &       0.000         &       0.000         &       0.000         \\
+Pseudo \(R^{2}\)    &                     &                     &                     \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{tabular}
+\end{table}
+
+
+
+
+
+\section*{Question 3}
+\textbf{Which set of estimates are you most inclined to believe?  Why?  What do you conclude about the effect of very low birth weight classification on infant mortality?}
+\newline \newline
+The estimate should not be sensitive to the observations that fall exactly at the 1500-g cutoff, therefore the output of Part B Question 2 should used in analysis instead of Part B Question 1. This part essentially removes the clustering peak effects around the exact ounce. The results from this section is indcation that there is not a significant effect of very low birth weight classification on one-year mortality rate.
+
+\end{document}

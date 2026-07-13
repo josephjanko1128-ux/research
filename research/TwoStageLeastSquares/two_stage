@@ -1,0 +1,125 @@
+clear
+capture cd "M:\stata"
+
+
+scalar beta0 = .7
+scalar beta1 = .5
+scalar testbeta = .5
+
+capture prog drop endog
+program endog, rclass
+syntax, beta2(real) plevel_signf(real)
+drop _all 
+
+set obs 500
+gen Z = rnormal(0,1)
+gen u = rnormal(0,1)
+gen e = rnormal(0,1)
+gen v = rnormal(0,1)
+
+gen X = 0.8*Z+0.5*u+v
+gen Y = beta0 + beta1*X +`beta2'*u + e
+
+
+*OLS
+quietly regress Y X
+return scalar b_ols = _b[X]
+test _b[X] = testbeta 
+local pvalue_ols = r(p) 
+if `pvalue_ols'>= `plevel_signf' {
+	return scalar test_ols = 0
+}  
+else {
+	return scalar test_ols = 1
+}
+
+*2sls 
+ivregress 2sls Y (X = Z)
+return scalar b_2sls = _b[X]
+test _b[X] = testbeta
+local pvalue_2sls = r(p) 
+if `pvalue_2sls'>= `plevel_signf'{
+	return scalar test_2sls = 0
+}  
+else {
+	return scalar test_2sls = 1
+}
+
+*manual 2sls
+quietly regress X Z
+predict Xhat
+quietly regress Y Xhat
+return scalar b_man_2sls = _b[Xhat]
+test _b[Xhat] = testbeta
+local pvalue_man_2sls = r(p) 
+if `pvalue_man_2sls'>= `plevel_signf' {
+	return scalar test_man_2sls = 0
+}  
+else {
+	return scalar test_man_2sls = 1
+}
+
+end
+
+simulate beta_ols=r(b_ols) rej_ols=r(test_ols) beta_2sls=r(b_2sls) rej_2sls=r(test_2sls) beta_man_2sls=r(b_man_2sls) rej_man_2sls=r(test_man_2sls) , saving(janko_results.dta, replace) reps(1000): endog, beta2(0.6) plevel_signf(.05)
+clear
+append using janko_results.dta
+
+summarize beta_ols beta_2sls beta_man_2sls
+/*
+    Variable |        Obs        Mean    Std. Dev.       Min        Max
+-------------+---------------------------------------------------------
+    beta_ols |      1,000    .6586593    .0373014   .5508348   .7677738
+   beta_2sls |      1,000    .4976745    .0668487   .2884454   .7151883
+beta_man_2~s |      1,000    .4976745    .0668487   .2884454   .7151883
+
+1) What is the averageestimate  that  each  approach  yields?
+
+ols regression: .6586593
+2sls IV regression: .4976745
+manual 2sls regression: .4976745
+
+ */
+
+
+
+tabulate rej_ols
+tabulate rej_2sls 
+tabulate rej_man_2sls
+
+/*
+2) How often does each approach have us reject that the estimated effect is equal tothe true effect at the 5% significance level?
+
+r(test_ols) |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |         12        1.20        1.20
+          1 |        988       98.80      100.00
+------------+-----------------------------------
+      Total |      1,000      100.00
+
+ols regression, 988 out of 1000 (98.80%) simulated estimates have been rejected at the 5% significance level
+
+
+r(test_2sls |
+          ) |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |        959       95.90       95.90
+          1 |         41        4.10      100.00
+------------+-----------------------------------
+      Total |      1,000      100.00
+
+2sls regression, 41 out of 1000 (4.10%) simulated estimates have been rejected at the 5% significance level
+
+
+r(test_man_ |
+      2sls) |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |        982       98.20       98.20
+          1 |         18        1.80      100.00
+------------+-----------------------------------
+      Total |      1,000      100.00
+
+manual 2sls regression, 18 out of 1000 (1.8%) simulated estimates have been rejected at the 5% significance level	  
+*/
+
+erase janko_results.dta

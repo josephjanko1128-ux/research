@@ -1,0 +1,107 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Dec 12 12:00:18 2018
+
+@author: jj
+"""
+import numpy as np
+import datetime
+from iexfinance import get_historical_data
+import pandas as pd
+import scipy.optimize as opt
+
+#batch  gradient descent regression
+
+def getReturnDf(stock_list, start, end):
+    prices = pd.DataFrame()
+    
+    for stock in stock_list:
+        data = get_historical_data(stock, start=start, end=end, output_format='pandas')['close']
+        data = pd.DataFrame(data)
+        data.columns = [stock]
+        data.index = pd.to_datetime(data.index)
+        if prices.empty:
+            prices = data.copy()
+        else:
+            prices = pd.concat([prices, data], axis  = 1)
+
+    returns = prices.pct_change().dropna(axis = 0)
+
+    return returns
+
+
+def sigmoid(z):
+    return(1 / (1 + np.exp(-z)))
+
+def costFunction(theta, x, y):
+    h = sigmoid(x.dot(theta))
+    j = (-1./len(y))*(np.log(h).T.dot(y)+np.log(1-h).T.dot(1-y))
+    return j
+
+def gradient(theta, x, y):
+    h = sigmoid(x.dot(theta))
+    grad =(1/len(y))*x.T.dot(h-y)
+    return(grad.flatten())
+
+
+def make_binary(df):
+    df[df >= 0] = 1
+    df[df < 0] = 0
+    return df    
+
+def predict(x, theta, threshold = .5):
+    h = sigmoid(x.dot(theta))
+    h[h>threshold] = 1
+    h[h<=threshold] = 0
+    return h
+
+def get_predict_percentage(x, theta, threshold = .5):
+    res = y - predict(x, theta, threshold = .5)
+    counter = 0
+    for i in res:
+        if i != 0:
+            counter = counter + 1
+    return counter / len(res)
+    
+
+if __name__ == '__main__':
+    
+    
+    addIntercept = True
+    
+    x = ['AAPL','TSLA']
+    y = ['MSFT']
+    
+    n_years = 1 * 365
+
+    end = datetime.date.today()
+    start = end - datetime.timedelta(days=n_years)  
+
+    stock_symbols = x + y
+    returns = getReturnDf(stock_symbols, start, end).resample('M').sum()
+    
+    x = returns[x].shift(1)[1:].values
+    if addIntercept:
+        x = np.append(x,np.ones([len(x),1]),1)
+        
+    y = make_binary(returns[y])[:-1].values
+    
+    theta = np.random.rand(1,x.shape[1]).T
+    
+    
+    i = 0
+    stop = False
+    prev = 10000000
+    
+    j = costFunction(theta,x,y)
+    
+    temp = opt.fmin_tnc(func = costFunction, 
+                    x0 = theta.flatten(),fprime = gradient, 
+                    args = (x, y.flatten()))
+    
+
+    newJ = costFunction(temp[0].reshape(-1,1),x,y)
+
+    
+        

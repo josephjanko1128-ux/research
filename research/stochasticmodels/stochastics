@@ -1,0 +1,50 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Nov 19 12:03:56 2018
+
+@author: jj
+"""
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+class Simulation():
+    
+    def __init__(self, S0, r, sigma, T):
+        self.S0 = S0
+        self.r = r
+        self.sigma = sigma
+        self.T = T
+        #I is the number of simulations that should be ran
+        self.I = 10000
+        #z is the standard normally distributed random variable
+        self.z= np.random.standard_normal(self.I)
+        
+    def simulate_level_gbm(self):
+        St1 = self.S0 * np.exp((self.r * .5 * self.sigma ** 2) * self.T + self.sigma * np.sqrt(self.T) * self.z  )
+        return St1
+    
+    def simulate_level_gbm2(self):
+        #np.random.lognormal takes mean and the standard deviation of the function
+        St1 = self.S0 * np.random.lognormal((self.r * .5 * self.sigma ** 2) * self.T, self.sigma * np.sqrt(self.T), size = (self.I))
+        return St1
+    
+        
+if __name__ == '__main__':
+    #s0 is the initial value
+    #r is the constant short rate
+    #T is in years
+    #sigma is the constant volatility
+    sim = Simulation(100,.05, .25, 2.)
+    
+    st1 = sim.simulate_level_gbm2()
+    
+    #plot the simulated geometric brownian motion
+    
+    plt.hist(st1, bins = 50)
+    plt.xlabel('index level')
+    plt.ylabel('frequency')
+    plt.grid(True)
+    
+        

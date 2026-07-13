@@ -1,0 +1,28 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Nov 19 09:18:19 2018
+
+@author: jj
+"""
+
+from iexfinance import get_historical_data, get_stats_intraday, get_market_deep
+from datetime import datetime
+
+
+symbols = ["AAPL", "TSLA", "FB"]
+"""
+
+get historical data
+start = datetime(2017, 5, 20)
+end = datetime(2017, 5, 24)
+
+df = get_historical_data("AAPL", start=start, end=end, output_format='pandas')
+df.head()
+"""
+
+current_state = {}
+
+for ticker in symbols:
+    current_state[ticker] = get_market_deep(ticker, output_format = 'json')
+

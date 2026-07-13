@@ -1,0 +1,71 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan  2 13:48:48 2019
+
+@author: jj
+"""
+
+from scipy import stats
+from matplotlib import pyplot as plt
+import numpy as np
+
+class rand_generator():
+    
+    def __init__(self):
+        self.output = []
+
+    def lcg(self,n,multiplier, seed, increment, modulus):
+        #the generator is defined by recurrence relation
+        """
+        Xn+1 = (aXn + c) mod m
+        X is the sequence of pseudorandom values
+        m is the modulus
+        a is the multiplier
+        c is the increment
+        X0 is the seed or start value
+        n is the number of random numbers that you use in the sequence
+        
+        """
+        self.output = []
+        
+        x = seed
+        
+        while len(self.output) != n:
+            
+            x = (multiplier * x + increment)%modulus
+            self.output.append(x)
+            
+        return self.output
+    
+    def shift_series(self, minimum, maximum ):
+        shifted = [x - min(self.output) + minimum for x in self.output]
+        return [(x/max(shifted))*maximum for x in self.output]
+    
+    def antithetic_sampling(self, series):
+        return [1-x for x in series] + series
+        
+        
+        
+    
+        
+    
+if __name__ == '__main__':
+    
+    gen = rand_generator()
+    
+    n = 200
+    rnd = gen.lcg(n, 1664525, 1024, 1013904223, 2**32)
+    rnd = gen.shift_series(-1,1)
+    print(np.var(rnd))
+    
+    
+    q = n/2
+    pairs = gen.lcg(q, 1664525, 10, 1013904223, 2**32)
+    pairs = gen.shift_series(0,1)
+    pairs = gen.antithetic_sampling(pairs)
+    print(np.var(pairs))
+    
+    
+    
+    

@@ -1,0 +1,70 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Dec 12 12:00:18 2018
+
+@author: jj
+"""
+import numpy as np
+
+#batch  gradient descent regression
+
+def partial_b(m,b,x,y):
+    
+    mse = (y - np.sum((x* m + b), axis = 0) )
+        
+    return np.sum(mse)  / float(len(y)) 
+
+def partial_m(m,b,x,y,index):
+    
+    mse = mse = (y - np.sum((x* m + b), axis = 0) ) * m[0,index]
+        
+    return np.sum(mse)  / float(len(y))  
+
+def cost_function(m,b,x,y):
+
+    mse = (y - np.sum((x* m + b), axis = 0) )**2
+        
+    return np.sum(mse)  / float(2 * len(y))
+
+if __name__ == '__main__':
+    
+    alpha = -.001
+    tol = 50
+    steps = 100
+    
+    x = np.random.rand(100,3)
+    y = np.random.rand(100,1)
+    
+    num_coef = len(x[0,:])
+    m = np.random.rand(1,num_coef)
+    b = np.random.rand(1,1)
+    new_m = m.copy()
+    
+    i = 1
+    stop = False
+    
+    while stop is False:
+        
+        mse = cost_function(m,b,x,y)
+        print(mse)
+        if mse < tol:
+            stop = True
+        else:
+            for j in range(len(m[0,:])):
+                new_m[0,j] = m[0,j] - alpha * partial_m(m,b,x,y,j)
+            b[0,0] = b[0,0] - alpha * partial_b(m,b,x,y)
+        m = new_m.copy()
+        if i >= steps:
+            stop = True
+        i = i + 1
+            
+            
+    print("the slope is")
+    print(m)
+    print("The constant is" )
+    print(b)
+    print("The number of steps to find convergence is ")
+    print(i-1)
+    
+        

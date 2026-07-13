@@ -1,0 +1,115 @@
+import praw
+from datetime import datetime
+import pandas as pd
+import os
+
+import requests
+import json
+import csv
+import time
+import datetime
+
+
+def getPushshiftData(after, before, sub):
+    url = 'https://api.pushshift.io/reddit/search/submission/?title='+'&size=1000&after='+str(after)+'&before='+str(before)+'&subreddit='+str(sub)
+    print(url)
+    r = requests.get(url)
+    data = json.loads(r.text)
+    return data['data']
+
+def collectSubData(subm):
+    subData = list() #list to store data points
+    title = subm['title']
+    url = subm['url'] 
+    author = subm['author']
+    sub_id = subm['id']
+    score = subm['score']
+    created = subm['created_utc'] #1520561700.0
+    numComms = subm['num_comments']
+    permalink = subm['permalink']
+    return [title, url, author, score, created]
+
+if __name__ == "__main__":
+              
+    subreddits_list = ['altcoin','icocrypto','ethereum','bitcoin', 'wallstreetbets','CryptoCurrency','btc', 'CryptoCurrencyTrading', 'binance', 'CoinBase', 'defi']
+    
+    for s in subreddits_list:      
+        df = pd.DataFrame()                   
+        #Subreddit to query
+        sub=s
+        #before and after dates
+        before = "1619704717" #October 1st
+        after = "1514764800"  #January 1st 
+        data = getPushshiftData(after, before, sub)
+        for d in data:
+            t = collectSubData(d)
+            t.append(sub)
+            x = pd.DataFrame(t)
+            add =x.T
+            add.columns = ['title','url','author','score','created','sub']
+            if df.empty:
+                df = add.copy()
+            else:
+                df = pd.concat([df, add] ,axis = 0, ignore_index = True)
+        
+        finished = True
+        prev = 0
+        while finished:
+            after = df['created'].tail(1).values[0]
+            print(datetime.datetime.utcfromtimestamp(int(after)))
+            data = getPushshiftData(after, before, sub)
+            for d in data:
+                t = collectSubData(d)
+                t.append(sub)
+                x = pd.DataFrame(t)
+                add =x.T
+                add.columns = ['title','url','author','score','created','sub']
+                if df.empty:
+                    df = add.copy()
+                else:
+                    df = pd.concat([df, add] ,axis = 0, ignore_index = True)
+                    df = df.drop_duplicates()
+            if len(df.index) > prev:
+                prev = len(df.index)
+            else:
+                finished = False
+        
+        
+        df['created'] = df['created'].apply(lambda x: datetime.datetime.utcfromtimestamp(x))
+        df.to_csv('reddit_posts.csv')
+     
+    
+        
+        
+    #code for collecting new posts
+    """
+    if os.path.exists('reddit.csv'):
+        df = pd.read_csv('reddit.csv', index_col = 0)
+    else os.path.exists('reddit.csv'):
+        df = pd.DataFrame()
+    
+    
+    reddit = praw.Reddit(
+        client_id="XauFp9ajXX3LNA",
+        client_secret="nJfH9ERWFE9FF7bULmkjd4QLg4uffA",
+        user_agent="my user agent",
+    )
+    
+    
+    subreddits_list = ['altcoin','icocrypto','ethereum','bitcoin', 'wallstreetbets','CryptoCurrency','btc', 'CryptoCurrencyTrading', 'binance', 'CoinBase', 'defi']
+    
+    df = pd.DataFrame()
+    
+    for s in subreddits_list:
+        for submission in reddit.subreddit(s).new(limit=None):
+            print(submission.title)
+            parsed_date = datetime.utcfromtimestamp(submission.created_utc)
+            add = pd.DataFrame([submission.title, submission.permalink, submission.view_count, parsed_date,s]).T
+            add.columns = ['title', 'link', 'view_count', 'date', 'subreddit']
+            if df.empty:
+                df = add.copy()
+            else:
+                df = pd.concat([df, add] ,axis = 0, ignore_index = True)
+    df = df.drop_duplicates()
+    df.to_csv(r'reddit.csv')
+    """

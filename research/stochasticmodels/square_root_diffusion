@@ -1,0 +1,50 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jan  6 15:54:42 2019
+
+@author: jj
+"""
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+class Simulation():
+    
+    def __init__(self, S0, sigma, T, kappa, theta):
+        
+        self.S0 = S0
+        self.sigma = sigma
+        self.T = T
+        #I is the number of simulations that should be ran
+        self.I = 10000
+        #kappa is the mean reversion factor
+        self.kappa = kappa
+        #the long term mean of the process
+        self.theta = theta
+        
+    def square_root_monte_carlo(self):
+ 
+        S=2
+        return S
+
+if __name__ == '__main__':
+    #euler discretiztion for square root diffusion
+
+    
+    sim = Simulation(.05, .25, 2.,3,.02)
+
+    
+    X = sim.square_root_monte_carlo
+    plt.plot(X[:,:10], lw = 1.5)
+    plt.xlabel('time')
+    plt.ylabel('index level')
+    plt.grid(True)
+    
+    
+    
+    
+    
+    
+
+
