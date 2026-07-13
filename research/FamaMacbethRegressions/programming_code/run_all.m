@@ -1,0 +1,8 @@
+disp("Running part 1")
+run('part1.m')
+disp("Running part 2")
+run('part2.m')
+disp("Running part 3")
+run('part3.m')
+disp("Running part 4")
+run('part4.m')

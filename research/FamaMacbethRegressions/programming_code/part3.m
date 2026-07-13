@@ -1,0 +1,131 @@
+clear all; close all; clc;
+%set this to the path of the data
+data_directory = '/home/jjanko/Documents/MATLAB/hw2_janko/data';
+%set this to the path of the results directory
+results_directory = '/home/jjanko/Documents/MATLAB/hw2_janko/results';
+%set this to the path of the writeup directory
+writeup_directory = '/home/jjanko/Documents/MATLAB/hw2_janko/writeup';
+%get the data for the project and name the variables
+
+mfr = readmatrix(fullfile(data_directory, 'mfr.dat'));
+
+disp('Problem 3')
+disp("The number of funds in mfr.dat")
+disp("There should be 3,716")
+disp(length(mfr(1,2:length(mfr(1,:)))))
+mfr = mfr(:,2:length(mfr(1,:)));
+
+[T,N] = size(mfr);
+ 
+ff5 = fullfile(data_directory, 'cleaned_data_part2.csv');
+factors = readmatrix(ff5);
+rf = factors(:,length(factors(1,:)));
+factors = factors(:, 2:length(factors(1,:)) -1);
+intercept = ones(length(factors(:,1)),1);
+factors = [factors intercept];
+ 
+ quintiles = containers.Map();
+ %create the container with keys and arrays for the sort variable
+ for i = 1:1:5
+     for j = 1:1:5
+         quintiles(string(i) + ',' + string(j)) = [];
+     end
+ end
+ %add a key for all returns
+ 
+ %iterate through the dates
+ for i = 1:length(mfr(:,1))
+     %check to see if the rolling period is greater than lookback for
+     %regression
+     if i >= 25
+        %get the cross section of t-1 alphas
+        cross_section_alpha = [];
+        %get the cross section of t-1 r2
+        cross_section_r2 = [];
+        %get the corresponding out of sample excess return
+        os_ret = [];
+        %get the rolling data for the regression
+        factor_t = factors(i-24:i-1, :);
+        %iterate through the funds
+        for j = 1:length(mfr(1,:))
+            mut = mfr(i-24:i-1,j);
+            if sum(mut == -99) == 0 && (mfr(i,j) ~= -99)
+                y = mut - rf(i-24:i-1,:);
+                x = factor_t;
+                [params,Resid,se,tstat, r2]=janko_ols(y,x);
+                cross_section_alpha = [cross_section_alpha; params(4)];
+                cross_section_r2 = [cross_section_r2; r2];
+                os_ret = [os_ret; mfr(i,j) - rf(i,:)];
+            end
+        end
+        
+        cross_section_r2= cross_section_r2';
+        cross_section_alpha = cross_section_alpha';
+        os_ret = os_ret';
+        
+        %sort on the lagged r2
+        ranking_cross_section_r2 = prctile(cross_section_r2, [20, 40, 60, 80]);
+        
+        if length(cross_section_r2) >= 25
+            %do the sorting on the cross section
+            for k = 1:1:5
+                if k == 1
+                    ranking_cross_section_alpha = cross_section_alpha( cross_section_r2 <= ranking_cross_section_r2(1));
+                    ret_after_sort = os_ret( cross_section_r2 <= ranking_cross_section_r2(1));
+                end
+                if (k > 1) && (k<5)
+                    ranking_cross_section_alpha = cross_section_alpha((cross_section_r2 > ranking_cross_section_r2(k-1)) & (cross_section_r2 <= ranking_cross_section_r2(k)));
+                    ret_after_sort = os_ret((cross_section_r2 > ranking_cross_section_r2(k-1)) & (cross_section_r2 <= ranking_cross_section_r2(k)));
+                end
+                if k == 5
+                    ranking_cross_section_alpha = cross_section_alpha( cross_section_r2 > ranking_cross_section_r2(4));
+                    ret_after_sort = os_ret( cross_section_r2 > ranking_cross_section_r2(4));
+                end
+               
+                ranking_cross_section_alpha_sort = prctile(ranking_cross_section_alpha, [20, 40, 60, 80]);
+                
+                for l = 1:1:5
+                    if l == 1
+                        ret_after_sort_sort = ret_after_sort( ranking_cross_section_alpha <= ranking_cross_section_alpha_sort(1));
+                    end
+                    if (l > 1) && (l<5)
+                        
+                        ret_after_sort_sort = ret_after_sort((ranking_cross_section_alpha > ranking_cross_section_alpha_sort(l-1)) & (ranking_cross_section_alpha <= ranking_cross_section_alpha_sort(l)));
+                    end
+                    if l == 5
+                        
+                        ret_after_sort_sort = ret_after_sort( ranking_cross_section_alpha > ranking_cross_section_alpha_sort(4));
+                    end
+                    
+                    quintiles(string(k) + ',' + string(l)) = [quintiles(string(k) + ',' + string(l)) ret_after_sort_sort];
+                    
+                end
+            end
+        end
+        
+     end
+ end
+ 
+output = zeros(6,6);
+p_stat = zeros(6,6);
+ for i = 1:1:5
+     for j = 1:1:5
+         output(i,j) = mean(quintiles(string(i) + ',' + string(j))) * 100.0;
+         [h,p,ci,stats] = ttest(quintiles(string(i) + ',' + string(j)));
+         output(i,j) = string(output(i,j));
+         p_stat(i,j) = p;
+         
+     end
+ end
+ output(6,:) =  output(5,:)- output(1,:);
+ output(:,6) = output(:,5)- output(:,1);
+ 
+
+
+part3_out = array2table(output);
+part3_out.Properties.VariableNames  = {'1','2','3','4','5','HIGH-LOW'};
+part3_out.Properties.RowNames  = {'1','2','3','4','5','HIGH-LOW'};
+writetable(part3_out, fullfile(results_directory, 'part_3.csv'),'WriteRowNames',true);
+
+
+

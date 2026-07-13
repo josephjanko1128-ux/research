@@ -1,0 +1,79 @@
+clear all; close all; clc;
+%set this to the path of the data
+data_directory = '/home/jjanko/Documents/MATLAB/hw2_janko/data';
+%set this to the path of the results directory
+results_directory = '/home/jjanko/Documents/MATLAB/hw2_janko/results';
+%set this to the path of the writeup directory
+writeup_directory = '/home/jjanko/Documents/MATLAB/hw2_janko/writeup';
+%get the data for the project and name the variables
+
+mfr = readmatrix(fullfile(data_directory, 'mfr.dat'));
+factors = readmatrix(fullfile(data_directory, 'cleaned_data_part4.csv'));
+%separate the risk free rate from the factors
+rf = factors(:,length(factors(1,:)));
+factors = factors(:, 1:length(factors(1,:)) -1);
+
+intercept = ones(length(factors(:,1)),1);
+factors = [factors intercept];
+
+disp('Problem 4')
+disp("The number of funds in mfr.dat")
+disp("There should be 3,716")
+disp(length(mfr(1,2:length(mfr(1,:)))))
+
+
+%get the date column
+date = mfr(:,1);
+%get the actual mutual fund data outside of date
+mf_data = mfr(:,2:length(mfr(2,:)));
+fmb = [];
+% get the ff5 and liquidty data on the same time frame
+for i = 1:length(date)
+    if i >= 25
+        
+        %step 1
+        cross_section = [];
+        r2_stage1 = [];
+        %add an extra lag for t-1
+        factor_t = factors(i-24:i-1, 2:length(factors(1,:)));
+        for j = 1:length(mf_data(1,:))
+            %get the rolling window for each mutual fund
+            mut = mf_data(i-24:i-1,j);
+            %check to see we have return observations over the whole window
+            if sum(mut == -99) == 0
+                y = mut - rf(i-24:i-1,:);
+                x = factor_t;
+                [params,Resid,se,tstat, r2]=janko_ols(y,x);
+                cross_section = [cross_section; [mf_data(i,j); params]'];
+                r2_stage1 = [r2_stage1; r2];
+            end
+        end
+        %step 2 do the regression on the cross section
+        if length(cross_section) > 2
+            y = cross_section(:,1);
+            liq_beta = cross_section(:,2);
+            intercept = ones(length(y),1);
+            r2_t_1 = r2_stage1;
+            
+            x1 = [intercept r2_t_1];
+            [params,Resid,se,tstat, r2_stage2]=janko_ols(y,x1);
+            partA = [params' tstat'];
+            
+            x2 = [intercept liq_beta];
+            [params,Resid,se,tstat, r2_stage2]=janko_ols(y,x2);
+            partB = [params' tstat'];
+            
+            x3 = [intercept r2_t_1 liq_beta ];
+            [params,Resid,se,tstat, r2_stage2]=janko_ols(y,x3);  
+            partC = [params' tstat'];
+            add = [date(i) partA partB partC];
+            fmb = [fmb; add];
+        end
+        
+    end
+    
+end
+
+part4_a = array2table(fmb);
+part4_a.Properties.VariableNames  = {'Date', 'Part A- Intercept', , };
+writetable(part4_a, fullfile(results_directory, 'part_4_all.csv'),'WriteRowNames',true);
