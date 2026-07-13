@@ -1,0 +1,23 @@
+Bias simulation due to omitted varaible bias in stata
+
+This question is about endogenous regressors in an OLS setting. Consider the regression
+model Y = β0 +β1X +. If X is not related to  we say that, in this model, X is exogenous.
+However, if X and  are related, we say that X is endogenous. In this exercise, you will
+write STATA code to simulate the bias in OLS estimates of β1 where some determinant of
+X may also directly determine Y , and summarize and display the results.
+Suppose the true model is Y = β0 + β1X + β2u + e and thus, in the regression model
+specified above,  = β2u + e. Also suppose X = 0.8Z + 0.5u. As such, the regression model
+will only yield an unbiased estimate of the parameter of interest, β1, if β2 = 0. Otherwise,
+βˆ
+1 will reflect both the effect of X itself on Y plus the bias arising from X’s correlation with
+u. Note that the magnitude of the bias will depend on the magnitude of β2 and the strength
+of the correlation between X and u.
+In order to demonstrate these aspects of omitted variable bias, begin by supposing Z ∼
+N(0, 1), u ∼ N(0, 1), and e ∼ N(0, 1) while β0 = 0.7 and β1 = 0.5. Simulate the bias in OLS
+estimates of β1 across a range of potential β2. For each β2 in -1.0, -0.8 ... , 0.8, 1.0, run 60
+repetitions of samples of n = 5000. Then produce a scatterplot of the estimates of β1 across
+β2. As a reference point, you should include a line showing the truth, β1.
+The preceding figure should illustrate that a stronger link between the outcome variable
+and the omitted variable leads to greater bias. In order to demonstrate that the strength of
+the link between the omitted variable and the included regressor matters as well, repeat the
+exercise above but have X = 0.8Z + 0.1u.

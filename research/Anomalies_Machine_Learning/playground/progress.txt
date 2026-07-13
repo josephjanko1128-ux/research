@@ -1,0 +1,86 @@
+﻿Things to Do
+
+bear market indicator 
+break up results by market cap
+	check best performing top 5 stocks
+look at mutual fund holdings, 13-f
+
+Tables to add 
+examine the correlation structure of the time series momentum strategies and compares them to the correlation structure of passive long positions
+
+add the option returns time merton interaction term
+
+Market timing literature
+Optimal stopping, portfolio choice, stanford grossman, laroque, 
+
+
+Progress 5/3/21
+Continued to search for alternative parameters for machine learning models
+Fixed ensemble system
+Found that ff5 alpha is larger than capm due to negative loadings on factors
+added goyal welch monthly data
+added example file
+
+Progress 3/29/21
+Added new feature based off logistic regression probability for regime
+Added market timing factor treynor mazuy
+Wrote another page 
+Added 3 factor portfolio based off ETFs
+Started working on testing sector ETFs
+
+Progress 3/22/21
+Add policy uncertainty and vix as features to market timing. Improved NN LS .03 to .05. .001 to RF LS .004
+Add ensemble system of factors to market timing. KNN LS from .0 to .003, RF LS .002. Extremely slow. May only want to run on knn and maybe add logistic regressoin
+Ran industry and etfs with spy adjsuted portfolio instead of RF. ETF had error so need to rerun. Industry looked a little better
+
+
+Progress 3/15/21
+Added error handling to files
+Filtered ETFs by top 100 by market cap
+	Results did not look so good
+Added some more to wrtieup on rf
+Added deciles. Looks good
+Added market timing
+
+Progress 3/8/21
+Added ETFs to analysis
+Changed 3X5 sorts to long short portfolio and added deciles to analysis
+Added mean returns to performance analytics
+Added pooling analysis of individual backtests to examine alphas in cross section located in indvidual_analytics.txt
+Added downside analysis
+
+Progress 2/15/21
+Started adding tables to overleaf, cleaned up the format
+Aggregated the performance analytics and modified so it can handle new regime_switching_paramete_testing directory format
+Cleaned the alpha aggregation and outputs the table to latex
+separated the printouts csvs from the latex output
+
+
+Progress 2/8/21
+Created regime_switching_parameter_testing. Tests the system over various lookback periods for machine learning training as well as feature generation
+Added pdf images for backtest results
+Created project for writeup
+
+Progress 1/31/21
+added stambaugh yuan 4 factor model
+added capm results 
+added time sereis regression results with newey west correct standard errors
+added factor anomaly portoflios- took lots of time to handle errors
+added some basic portfolio analytics in portfolio_analytics.csv
+
+
+Progress 12/31/20
+
+-Created file regime_switching_2.ipynb that combines analysis from q factor, ff5, and industry analysis2
+
+-Created module that contains all classes for analysis. Called regime_module.py
+
+-Added method that modifies regression object for famma macbeth output
+	changes the pvalue, tstat, and standard errors
+	added annualized alpha to object
+
+
+-
+
+
+
