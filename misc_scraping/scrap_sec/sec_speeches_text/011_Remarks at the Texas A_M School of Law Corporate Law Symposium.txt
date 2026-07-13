@@ -1,0 +1,437 @@
+Title: Remarks at the Texas A&M School of Law Corporate Law Symposium
+Link: https://www.sec.gov/newsroom/speeches-statements/atkins-02-17-2026-remarks-texas-am-school-law-corporate-law-symposium
+Published: Tue, 17 Feb 2026 09:02:54 -0500
+
+SEC.gov | Remarks at the Texas A&M School of Law Corporate Law Symposium
+Skip to search field
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+A locked padlock
+)
+              or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+SEC homepage
+Menu
+Close
+Search SEC.gov & EDGAR
+Search
+Search Filings
+Search Filings
+Full Text Search
+Latest Filings
+Mutual Fund Search
+Variable Insurance Products Search
+SIC Codes
+CIK Lookup
+Public Dissemination Service (PDS)
+Search Assistance
+Submit Filings
+Submit Filings
+EDGAR Filer Management Portal
+EDGAR Filing Portal
+Online Forms Management Portal
+EDGAR Next
+Forms Index
+Filer Support & Resources
+Data & Research
+Data & Research
+SEC & Markets Data
+Taxonomies
+Statistics & Data Visualizations
+Rules, Enforcement, & Compliance
+Rules & Regulations
+Rulemaking Activity
+Statutes & Regulations
+Staff Guidance
+No-Action, Interpretive, and Exemptive Letters
+Self-Regulatory Organization Rulemaking
+Public Petitions for Rulemaking
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+Compliance
+Examination Priorities
+Risk Alerts
+Compliance Outreach Program
+Proposed Rules
+What's New
+Whistleblower Program
+Featured Topics
+Featured Topics
+Crypto Task Force
+Cybersecurity
+Market Structure Analytics
+Saving and Investing for Military Personnel
+Saving and Investing for Teachers
+SEC-CFTC Harmonization Initiative
+Treasury Clearing Implementation
+About
+About
+Mission
+Commissioners
+Divisions & Offices
+Division & Office Directors
+Advisory Committees
+Budget & Performance
+Reports & Publications
+Commission Votes
+Contact the SEC
+Careers
+Submit a Tip or Complaint
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Search SEC.gov & EDGAR
+Search
+More in this Section
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Home
+Newsroom
+Speeches and Statements
+Remarks at the Texas A&M School of Law Corporate Law Symposium
+Speech
+Remarks at the Texas A&M School of Law Corporate Law Symposium
+Paul S. Atkins,
+Chairman
+Federal Reserve Bank of Dallas
+Feb. 17, 2026
+Thank you, David [Woodcock], for your generous introduction. And good morning, ladies and gentlemen. I am delighted to be here, and grateful for this opportunity to share a few reflections.
+Let me begin by thanking our hosts at the Texas A&M University School of Law for convening today’s program. Though only in its second year, the symposium has already earned a reputation for rigor and insight. So, to address leading judges, scholars, and practitioners here, at the Federal Reserve Bank of Dallas, is a profound honor. And before I begin, let me add the customary disclaimer that the views I express here are my own as Chairman and not necessarily those of the SEC as an institution or of the other Commissioners.
+***
+Now, some of you may recall that last fall, I addressed a conference at the University of Delaware’s Weinberg Center for Corporate Governance.
+[1]
+I spoke candidly about the declining number of public companies in our capital markets and the reforms that I believe are necessary to revitalize them. I also emphasized the important role that States play in these reforms, especially in the areas of litigation reform and shareholder proposals. That speech took place during a period when prominent firms were raising concerns about continuing to be domiciled in Delaware, with some moving elsewhere and encouraging others to follow suit.
+[2]
+Today, speaking at this symposium in Texas feels different. Indeed, Texas has begun to build something that could offer an interesting alternative to Delaware, through a framework designed to attract companies with shareholders who are eager to get back to basics, with less politicization, abusive litigation, and overall drama. That vision is rooted in a deeply American idea: that competition—among firms; among markets; and yes, among States—is the animating force behind a system that has produced more prosperity than any other in human history.
+Of course, Delaware is no stranger to competition, for it was not always the market leader for corporate domicile. That distinction once belonged to New Jersey.
+[3]
+However, in the early twentieth century, Delaware claimed that title and has held it ever since.
+[4]
+But competition does not pause for tradition, nor does it defer to incumbency. Over time, it compels systems, and States, to adapt—or to yield. Through competition, good ideas spread, poor ones fade, and the system itself grows stronger.
+My remarks this morning will first examine how Texas has entered that competition and what more the State might do to strengthen its position. I will then conclude with some ideas for reforming the SEC’s disclosure regime.
+***
+During its 2025 legislative session, Texas took several significant steps to further its appeal as a destination for corporate domestication. Among the legislative actions was Senate Bill 29 (“SB 29”).
+[5]
+SB 29 made several important changes to enhance protections for Texas companies—and ultimately their shareholders—against abusive lawsuits. For example, litigants will no longer be able to recover their fees from a company in actions that result solely in “additional or amended disclosures…regardless of materiality.”
+[6]
+This amendment can help to deter lawsuits that are all too frequently filed—seemingly by rote—after a company releases its proxy materials for approval of a merger or an equity compensation plan. In these lawsuits, the litigants may not necessarily be seeking better proxy disclosure. Rather, the ulterior motive may be to seek a quick payout, knowing that companies wish to settle promptly and not delay their shareholder meeting.
+Texas’s consideration of the issue of attorneys’ fees in litigation signals that it recognizes their cumulative burden on capital formation. Another possible measure that many jurists and commentators have advanced is fee shifting
+[7]
+—the idea that the losing party in a litigation pays the winning party’s attorneys’ fees. Currently, companies can generally look only to Rule 11 of the Federal Rules of Civil Procedure
+[8]
+for fee shifting in the case of frivolous federal securities law claims. However, some jurisdictions have models for fee shifting beyond their civil procedure rules. This principle, often called the English Rule, prevails in many foreign jurisdictions, not just Great Britain, and they could serve as examples for Texas to follow.
+SB 29 also gave Texas companies more control over the venue and method of adjudicating lawsuits. For actions involving internal affairs claims, companies can now designate Texas courts as the exclusive forum for hearing those claims.
+[9]
+They may also waive jury trials for these actions.
+[10]
+These changes were significant first steps in rebalancing Texas’s process for resolving litigation.
+However, should litigation in a court—with or without a jury—be the only method available to companies for adjudicating shareholder disputes? Another possibility is arbitration. For many years, the SEC never clearly articulated its views on whether a mandatory arbitration provision in a company’s governing documents is inconsistent with the federal securities laws. The agency, in a very non-transparent manner, told companies on an ad hoc basis that including such a provision would mean that their IPO registration statement would not be declared effective.
+The most recent incident appears to have been in 2012 when the Carlyle Group—which was advised by top tier law firms and had its IPO underwritten by bulge bracket banks—sought to go public with such a provision.
+[11]
+I say “appears to be” because the Commission had never adopted any written principle to document this position. Instead, the SEC staff—likely at the direction of the then Chairman—advised Carlyle that its registration statement would not be declared effective as long as the mandatory arbitration provision remained. Carlyle removed the provision. To say the least, that is not the way that a United States government agency should operate.
+However, the situation changed last September when the Commission reviewed the law as enunciated by the courts, and concluded that, based on the Supreme Court’s decisions, mandatory arbitration provisions are not inconsistent with the federal securities laws.
+[12]
+The Commission voted three-to-one to direct its staff—and clarify to the public—that this unwritten, ad hoc practice would no longer govern SEC policy.
+The SEC has now done its part by making clear that it will not stand in the way of such provisions. However, before companies can adopt mandatory arbitration provisions, they must also consider the laws of their state of formation. Last summer, Delaware prohibited mandatory arbitration for federal securities law claims.
+[13]
+What will Texas do?
+Texas’s recent amendments to its corporate laws reflect the idea that competition amongst States for domiciling corporations is a healthy function of our capital markets. They remind us that state corporate law, working in tandem with the federal securities laws, matters profoundly to our economic strength as a country, and that through those laws, we can rigorously protect shareholders without needlessly paralyzing companies. If States function as laboratories, as Justice Brandeis famously remarked,
+[14]
+then the companies that operate within them often supply the ingredients for experimentation.
+***
+Let me now turn to my second topic for this morning, SEC disclosure reform. Last December, I shared my vision for returning the Commission’s disclosure regime to its original intent of “protect[ing] the public with the least possible interference with honest business.”
+[15]
+At a high level, achieving this vision of having the “minimum effective dose of regulation” requires the Commission to follow two ideals. First, it must root its disclosure requirements, which are contained in Regulation S-K, in the concept of financial materiality. Second, it must scale these requirements with a company’s size and maturity.
+Today, I will share some details on the types of reform that I have instructed the Commission staff to explore. The SEC took its first step in reforming Regulation S-K last May by soliciting public comments and hosting a roundtable on its executive compensation disclosure requirements under Item 402.
+[16]
+In many ways, Item 402 epitomizes the problems with the SEC’s disclosure rules overall. The rules themselves are lengthy and complex, driven in part by piecemeal additions over the last two decades without a holistic review of how everything fits together. Having been chief of staff to then-Chairman Richard Breeden during the 1992 amendments to Item 402, I can say that the rule today has morphed into a Frankenstein monster beyond recognition.
+Furthermore, the rules sometimes drive corporate behavior, rather than reflect the outcome of corporate decisions. Preparing the required disclosure consumes significant time from boards and management and can impose substantial costs through the need for specialized lawyers, accountants, and consultants. Yet, the resulting information may not benefit or protect investors because of its volume, complexity, and lack of relevance. In short, disclosure intended to inform can instead overwhelm.
+So, it is no surprise that some of the reforms for Item 402 suggested by some commenters reflect principles that the SEC can apply throughout its rethinking of Regulation S-K. Specifically, I categorize these principles into the three buckets of rationalizing, simplifying, and modernizing the disclosure rules.
+First is rationalizing. Our rules should be sensible, with materiality as their north star. Today, companies must provide detailed compensation information—through both tabular and narrative formats—for up to seven executives in a given year.
+[17]
+A significant number of commenters have questioned whether that scope remains justified.
+[18]
+As one commenter explained, “with the exception of the [CEO], the volume of detailed information…about the remaining [executives] is often immaterial to investors and, if anything, tends to obscure the information that they genuinely seek.”
+[19]
+Requiring companies to devote extensive time and resources to prepare disclosure that can do more to obscure than illuminate is not rational. I agree with commenters that we should reconsider the number of executives for whom compensation information is provided to appropriately calibrate the level of disclosure with the cost.
+Second is simplifying. At the roundtable on executive compensation, one panelist described the Commission’s pay-versus-performance (“PvP”) rule
+[20]
+as “a very complex calculation” that is difficult not only to produce but also to interpret.
+[21]
+“It’s sort of disclosure written by economists for economists,” the panelist added.
+[22]
+This sentiment should give us pause as it reflects the opposite of what an SEC disclosure requirement ideally should be—intelligible by a reasonable investor and practical for a company to comply, without the need for a cottage industry of ultra specialized consultants. Unfortunately, all of the time and money spent on PvP disclosure has scarcely resulted in clear information to investors. Another commenter noted that the rule has “necessitate[d] further explanatory disclosure…to address any confusion…create[d] for investors.”
+[23]
+A regime that requires additional disclosure to explain the original disclosure is a signal that simplification is overdue. I agree with commenters that we should look for ways to make PvP disclosure simpler for companies to prepare and more straightforward for investors to understand.
+Finally, modernizing. Few areas exemplify the need for modernization more than the treatment of executive security as a perk. When the Commission last considered this issue in 2006, it concluded that security provided at an executive’s residence or during personal travel constituted a perk, while security provided at the office and during business travel did not.
+[24]
+At the time, the Commission reasoned that personal security services were not “integrally and directly related” to job performance.
+[25]
+But the world has changed. As one commenter noted, “[i]n today’s environment…comprehensive 24/7 protection is increasingly a necessity, not a luxury.”
+[26]
+Another stated that “[e]xecutive security is critical to the ability of many executives to perform their duties…”
+[27]
+I agree with commenters that the Commission should modernize its perks disclosure requirements to reflect how the world and security threats have evolved over the past twenty years.
+***
+These are just some examples of how we can sensibly reform the SEC’s current executive compensation disclosure, which is a significant portion, but just one component, of Regulation S-K. Let me briefly address a couple of broader themes that should guide reform across the framework.
+First is the SEC’s attempt to indirectly regulate, or set expectations for, matters of corporate governance through “comply or explain” disclosure requirements. For example, if a company does not maintain a nominating or compensation committee, then it must explain why the board of directors believes that structure is appropriate.
+[28]
+If a company does not have a policy for considering director candidates recommended by shareholders, it must justify that decision.
+[29]
+And if a company has not established a formal process for shareholders to send communications to the board, it must disclose its reasons.
+[30]
+In theory, these are disclosure provisions. In practice, they can operate as mandates.
+When confronted with such requirements, a company may conclude that the most prudent course is to form the committee, adopt the policy, or establish the procedure—regardless of whether it suits their particular circumstances—rather than risk appearing deficient by explanation. Absent a congressional directive,
+[31]
+it is not the SEC’s role to enforce evolving notions of “best practice” governance standards through what I consider “regulation by shaming.” Our mandate is disclosure rooted in materiality, not governance orthodoxy enforced by embarrassment.
+A second theme involves disclosure requirements that are impractical. For example, if a company’s CEO departed in 2025, the company must still report his or her ownership of the company’s stock in a proxy statement filed in 2026.
+[32]
+Is it reasonable to require the company to track down the share ownership of its former CEO, who could have departed more than a year ago? Or consider the rules governing related-party transactions. Companies must disclose transactions between the company and an executive’s “immediate family members,” a term that extends well beyond spouses and children to encompass all of one’s in-laws.
+[33]
+The rule makes no distinction based on the closeness or continuity of a relationship. Perhaps a more workable standard for “immediate family members” is whether the executive has shared a Thanksgiving meal with them in the past year.
+***
+The final area of disclosure that I wish to address this morning is risk factors. As a Commissioner in 2005, I supported a rulemaking to extend risk factor disclosure from prospectuses to annual and quarterly reports through what became Item 1A.
+[34]
+Based on conversations with my fellow commissioners and SEC staff at the time, we anticipated that companies would provide a concise discussion—perhaps enough to fill two or three pages—that describe “what keeps management up at night.” Today, however, the risk factors disclosure in a Form 10-K is on average one of the longest sections of the annual report. If PvP is disclosure written by economists for economists, then risk factors are disclosure written by lawyers for lawyers.
+Unlike other voluminous disclosure that may result from the SEC’s rulebook, lengthy risk factors are likely not the result of the SEC’s rule. Item 105 of Regulation S-K expressly requires disclosure of material risks and discourages disclosure of generic ones.
+[35]
+The Commission has previously recognized the problem with lengthy risk factors, and in 2020, amended Item 105 to require a summary if the section exceeds fifteen pages.
+[36]
+While this rule change may have resulted in some companies reducing their risk factors disclosure to under fifteen pages, many more elected to keep their lengthy disclosures and add a summary on top of it.
+[37]
+In fact, the overall length of many large companies’ risk factors section increased following the rule change.
+[38]
+How can we reduce the volume of risk factors so that only material risks are presented to investors? The answer may depend on how we view their primary purpose. Should risk factors be disclosure written by management for investors to convey “what keeps them up at night?” Or are they principally a tool for establishing liability defenses, such as the “bespeaks caution” doctrine,
+[39]
+or to qualify as “meaningful cautionary statements” under the statutory safe harbor for forward-looking statements?
+[40]
+What is clear is that effectively reducing the volume of risk factors requires some creative ideas and out-of-the-box thinking.
+If the primary purpose is for management to communicate to investors, then a novel idea could be to have an entity—perhaps the SEC or the company itself—maintain a set of risks, which could be published separately outside of the annual report, that broadly apply to most companies across most industries. For example, these could include impacts from U.S. legislative and regulatory developments, geopolitical issues, and natural disasters. These risks would serve as a form of “general terms and conditions” associated with any investment in securities. A company could refer to these risks, rather than prepare its own, and supplement them as necessary. This approach could result in a shorter risk factors section consisting of risks that are specific and material to the company.
+However, if the primary purpose of risk factors is litigation defense, then reforms should go straight to the heart of the issue—potentially offering a safe harbor from liability. The Commission could adopt a rule stating that failure to disclose impacts from publicized events that are reasonably likely to affect most companies will not constitute material omissions for purposes of some or all of the federal securities laws’ anti-fraud rules. Such a safe harbor could incentivize companies to include fewer generic risk factors by shielding them from liability for events related to those generic risks. After all, if companies are not compelled to catalogue nearly every conceivable contingency to guard against hindsight litigation, then they can focus on risks that are more distinctive to their business.
+***
+I offer these ideas in the spirit of starting a conversation about the primary purpose of risk factors and rule-based corporate disclosure generally. How can we right-size their length and complexity without diminishing their value? Most importantly, I am eager to hear your ideas—and encourage you to be bold and creative. Beyond risk factors, I also welcome your views and feedback on the broader principles, themes, and ideas that I have shared today regarding executive compensation disclosure and the other parts of Regulation S-K. The SEC is currently accepting written comments on these topics, and I hope that you will submit yours as soon as possible.
+[41]
+For those of you more focused on Texas corporate law, this state has begun to build something that could have lasting ramifications. I am excited to see what happens over the next few years, including any further changes to the corporate law during next year’s legislative session. As baseball’s spring training begins, I am reminded that “if [Texas] build[s] it, [the companies] will come.”
+[42]
+It has been my pleasure speaking with you this morning. You have been a patient and indulgent audience. And you have my best wishes for a wonderful remainder of this conference. Thank you.
+[1]
+Paul S. Atkins, Keynote Address at the John L. Weinberg Center for Corporate Governance’s 25th Anniversary Gala (Oct. 9, 2025), available at
+https://www.sec.gov/newsroom/speeches-statements/atkins-10092025-keynote-address-john-l-weinberg-center-corporate-governances-25th-anniversary-gala
+.
+[2]
+See
+,
+e.g.
+, Jai Ramaswamy, Andy Hill, and Kevin McKinley, We’re Leaving Delaware, And We Think You Should Consider Leaving Too (July 9, 2025), available at
+https://a16z.com/were-leaving-delaware-and-we-think-you-should-consider-leaving-too/
+.
+[3]
+See
+,
+generally
+, James D. Cox and Thomas Lee Hazen,
+Treatise on the Law of Corporations
+§ 2:4 (4th ed).
+[4]
+Id
+.
+[5]
+Tex. S.B. 29, 89
+th
+Leg., R.S., available at
+https://legiscan.com/TX/text/SB29/id/3195811
+.
+[6]
+Tex. Bus. Orgs. Code Ann. § 21.561(c).
+[7]
+See
+,
+e.g.
+, Jonathan T. Molot, Fee Shifting and the Free Market, 66 Vanderbilt Law Review 1807 (2013), available at
+https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1322&context=vlr
+.
+[8]
+Fed. R. Civ. P. 11.
+[9]
+Tex. Bus. Orgs. Code Ann. § 2.115.
+[10]
+Tex. Bus. Orgs. Code Ann. § 2.116.
+[11]
+See
+,
+e.g.
+, Carlyle Drops Arbitration Clause from I.P.O. Plans, Kevin Roose, The New York Times (Feb. 3, 2012), available at
+https://archive.nytimes.com/dealbook.nytimes.com/2012/02/03/carlyle-drops-arbitration-clause-from-i-p-o-plans/
+.
+[12]
+Acceleration of Effectiveness of Registration Statements of Issuers with Certain Mandatory Arbitration Provisions, Release No. 33-11389 (Sept. 17, 2025) [90 FR 45125 (Sept. 19, 2025)], available at
+https://www.federalregister.gov/documents/2025/09/19/2025-18238/acceleration-of-effectiveness-of-registration-statements-of-issuers-with-certain-mandatory
+.
+[13]
+8 Del. C. § 115(c).
+[14]
+New State Ice Co. v. Liebmann
+, 285 U.S. 262 (1932) (Brandeis, L., dissenting) (“It is one of the happy incidents of the federal system that a single courageous State may, if its citizens choose, serve as a laboratory; and try novel social and economic experiments without risk to the rest of the country.”).
+[15]
+Paul S. Atkins, Revitalizing America’s Markets at 250 (Dec. 2, 2025), available at
+https://www.sec.gov/newsroom/speeches-statements/atkins-120225-revitalizing-americas-markets-250
+.
+[16]
+SEC Roundtable on Executive Compensation Disclosure Requirements, available at
+https://www.sec.gov/newsroom/meetings-events/sec-roundtable-executive-compensation-disclosure-requirements
+.
+[17]
+17 CFR 229.402(a)(3).
+[18]
+See
+,
+e.g.
+, American Bar Association (Oct. 6, 2025) (“ABA Letter”); Center On Executive Compensation (July 31, 2025) (“COEC Letter”); Davis Polk & Wardwell LLP (July 31, 2025); McGuireWoods LLP and Brownstein Hyatt Farber Schreck, LLP (June 2025); and Society for Corporate Governance (Aug. 27, 2025).
+[19]
+ABA Letter at 10.
+[20]
+17 CFR 229.402(v).
+[21]
+Unofficial Transcript: SEC Roundtable on Executive Compensation Disclosure Requirements Panel (July 26, 2025) at 96, available at
+https://www.sec.gov/files/sec-roundtable-executive-compensation-disclosure-requirements-2025-06-26-transcript.pdf
+.
+[22]
+Id
+.
+[23]
+U.S. Chamber of Commerce (June 25, 2025) at 10.
+[24]
+Executive Compensation and Related Person Disclosure, Release No. 34-54302 (Aug. 29, 2006) [71 FR 53158, 53177 (Sept. 8, 2006)], available at
+https://www.federalregister.gov/documents/2006/09/08/06-6968/executive-compensation-and-related-person-disclosure
+.
+[25]
+Id
+.
+[26]
+COEC Letter at 9.
+[27]
+The Travelers Companies, Inc. (June 30, 2025) at 2.
+[28]
+17 CFR 229.407(c)(1) and 17 CFR 229.407(e)(1).
+[29]
+17 CFR 229.407(c)(2)(iii).
+[30]
+17 CFR 229.407(f)(1).
+[31]
+See
+,
+e.g.
+, 15 U.S.C. § 7265.
+[32]
+17 CFR 229.403(b) and 17 CFR 229.402(a)(3)(i).
+See
+,
+also
+, Question 129.03, Regulation S-K Compliance & Disclosure Interpretations.
+[33]
+17 CFR 229.404(a).
+[34]
+Securities Offering Reform, Release No. 33-8591 (July 19, 2005) [70 FR 44722 (Aug. 3, 2005)], available at
+https://www.federalregister.gov/documents/2005/08/03/05-14560/securities-offering-reform
+.
+[35]
+17 CFR 229.105.
+[36]
+Modernization of Regulation S-K Items 101, 103, and 105, Release No. 33-10825 (Aug. 26, 2020) [85 FR 63726 (Oct. 8, 2020)], available at
+https://www.federalregister.gov/documents/2020/10/08/2020-19182/modernization-of-regulation-s-k-items-101-103-and-105
+.
+[37]
+SEC Risk Factor Disclosure Rules, Harvard Law School Forum on Corporate Governance, posted by Dean Kingsley and Matt Solomon, Deloitte & Touche LLP, and Kristen Jaconi, University of Southern California (Dec. 22, 2021), available at:
+https://corpgov.law.harvard.edu/2021/12/22/sec-risk-factor-disclosure-rules/
+.
+[38]
+Id
+.
+[39]
+See
+,
+generally
+, Safe Harbor for Forward-Looking Statements, Release No. 33-7101 (Oct. 13, 1994) [59 FR 52723, 52727 (Oct. 19, 1994)], available at
+https://archives.federalregister.gov/issue_slice/1994/10/19/52714-52743.pdf#page=10
+.
+[40]
+15 U.S.C. § 77z-2(c)(1)(A)(i) and 15 U.S.C. § 78u-5(c)(1).
+[41]
+See
+Paul S. Atkins, Statement on Reforming Regulation S-K (Jan. 13, 2026), available at
+https://www.sec.gov/newsroom/speeches-statements/atkins-statement-reforming-regulation-s-k-011326
+.
+[42]
+Field of Dreams (Universal Pictures 1989).
+Last Reviewed or Updated:
+Feb. 26, 2026
+Return to top
+SEC homepage
+About the SEC
+Budget & Performance
+Careers
+Commission Votes
+Contact
+Contracts
+Transparency
+Accessibility & Disability
+Artificial Intelligence
+Cummings Notice
+FOIA
+Inspector General
+No FEAR Act Data
+Ombuds
+SEC Excess Personal Property Guidance
+Websites
+Investor.gov
+Related Sites
+USA.gov
+Site Information
+Plain Writing
+Privacy & Security
+Site Map
+Stay connected. Sign up for email updates.
+Your email address
+Sign Up
+X
+Facebook
+Instagram
+RSS
+YouTube
+Email Updates

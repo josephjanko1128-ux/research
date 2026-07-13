@@ -1,0 +1,312 @@
+Title: Coming Attractions From the Division of Corporation Finance
+Link: https://www.sec.gov/newsroom/speeches-statements/moloney-statement-coming-attractions-021326-coming-attractions-division-corporation-finance
+Published: Fri, 13 Feb 2026 08:19:37 -0500
+
+SEC.gov | Coming Attractions From the Division of Corporation Finance
+Skip to search field
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+A locked padlock
+)
+              or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+SEC homepage
+Menu
+Close
+Search SEC.gov & EDGAR
+Search
+Search Filings
+Search Filings
+Full Text Search
+Latest Filings
+Mutual Fund Search
+Variable Insurance Products Search
+SIC Codes
+CIK Lookup
+Public Dissemination Service (PDS)
+Search Assistance
+Submit Filings
+Submit Filings
+EDGAR Filer Management Portal
+EDGAR Filing Portal
+Online Forms Management Portal
+EDGAR Next
+Forms Index
+Filer Support & Resources
+Data & Research
+Data & Research
+SEC & Markets Data
+Taxonomies
+Statistics & Data Visualizations
+Rules, Enforcement, & Compliance
+Rules & Regulations
+Rulemaking Activity
+Statutes & Regulations
+Staff Guidance
+No-Action, Interpretive, and Exemptive Letters
+Self-Regulatory Organization Rulemaking
+Public Petitions for Rulemaking
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+Compliance
+Examination Priorities
+Risk Alerts
+Compliance Outreach Program
+Proposed Rules
+What's New
+Whistleblower Program
+Featured Topics
+Featured Topics
+Crypto Task Force
+Cybersecurity
+Market Structure Analytics
+Saving and Investing for Military Personnel
+Saving and Investing for Teachers
+SEC-CFTC Harmonization Initiative
+Treasury Clearing Implementation
+About
+About
+Mission
+Commissioners
+Divisions & Offices
+Division & Office Directors
+Advisory Committees
+Budget & Performance
+Reports & Publications
+Commission Votes
+Contact the SEC
+Careers
+Submit a Tip or Complaint
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Search SEC.gov & EDGAR
+Search
+More in this Section
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Home
+Newsroom
+Speeches and Statements
+Coming Attractions From the Division of Corporation Finance
+Statement
+Coming Attractions From the Division of Corporation Finance
+James Moloney,
+Director, Division of Corporation Finance
+Washington D.C.
+Feb. 13, 2026
+This statement describes, among other things, my remarks and other matters discussed by Duc Dang, Sebastian Gomez Abero, Jonathan Ingram, Heather Rosenberger, and Ted Yu during various presentations at the 2026 Securities Regulation Institute from January 26-28, 2026, in Coronado, California.
+[1]
+Steven Spielberg is directing a movie called
+Disclosure Day
+, coming this summer to a theater near you. As I keep telling my team, the changes you will see emerge from the Securities and Exchange Commission by way of the Division of Corporation Finance (the “Division”) will be the equivalent of a series of blockbuster movies, reminiscent of Spielberg’s greatest hits. He may have already taken the perfect title for one of our movies, but you can expect our very own “disclosure day” releases. And while Spielberg and I have very different plots in mind for our productions, I promise you that our releases will be just as thrilling. It’s time to leave some of these burdensome regulations on the cutting room floor.
+I rejoined the Commission’s staff a few short months ago after nearly a quarter century in private practice, ready to implement Chairman Paul Atkins’ sweeping agenda to return the agency to its core mission of protecting investors and facilitating capital formation. The intent of his agenda is to reduce barriers to going public, rationalize burdensome requirements while ensuring that investors continue to have access to the material information they need, and simplify and modernize our rules so that more companies are willing to go and stay public. The Division will play a starring role in executing that agenda. Just take a look at the long list of Division rulemakings on the Regulatory Flexibility Agenda.
+[2]
+The Division staff is currently working on advancing our rulemakings as quickly as possible. In line with the Chairman’s priorities, we are first focusing on crypto assets reform, implementing the Holding Foreign Insiders Accountable Act (“HFIAA”) to require Section 16 reporting for Foreign Private Issuers (“FPIs”) as mandated by Congress, creating an option for semi-annual, rather than quarterly, reporting, and reducing regulatory burdens from Regulation S-K, including executive compensation disclosures.
+Crypto Assets
+Last year, then-Acting Chairman Mark Uyeda referenced Spielberg’s first blockbuster,
+Jaws
+,
+in his remarks at the SEC Speaks conference.
+[3]
+He described a dangerous sea with the ever-lurking threat of regulation by enforcement. In the prior administration, nowhere was that more evident than in crypto assets enforcement.
+Two of the Division’s blockbuster recommendations headed to the Commission will focus on crypto assets. Last November, Chairman Atkins outlined the next steps for “Project Crypto,” which he expects will provide a clear taxonomy for crypto assets and guidance on when crypto assets are no longer part of, or subject to, an investment contract.
+[4]
+The Division is preparing to deliver these recommendations to the Commission in the form of interpretive guidance that provides a taxonomy for crypto assets and describes a framework for determining when crypto assets are subject to an investment contract. For those crypto assets that are subject to an investment contract, we are also working on a proposal that will seek to provide a rational regulatory structure for the offer and sale of those securities.
+Following these big releases, the markets will no doubt continue to innovate. You’ve seen that the Division has been willing to jump in and has provided needed market clarity through Division statements and no-action letters.
+[5]
+We will continue to monitor the marketplace and provide additional guidance as needed to further facilitate capital formation and accommodate innovation in this space without sacrificing investor protection.
+Regulation S-K
+Securities lawyers from the early days of the Securities Act of 1933 and the Securities Exchange Act of 1934 would want to “phone home” if they were transported,
+E.T.
+-style, to witness today’s disclosure regime. The overall length of proxy statements and periodic filings – not to mention compliance costs – have skyrocketed over the past decades, creating massive documents that would be alien to those who created our disclosure regime. To invigorate the process of right-sizing these disclosures, the Chairman recently put out a statement instructing the Division to review Regulation S-K with the goal of “revising the requirements to focus on eliciting disclosure of material information and avoid compelling the disclosure of immaterial information.”
+[6]
+The Chairman’s statement requested public comment on any part of Regulation S-K, following upon the informative Executive Compensation Roundtable and related request for comment last year focused on Item 402 of Regulation S-K.
+[7]
+Companies, investors, and other market participants now have the unique opportunity to help us draft the scripts for the next several sequels. We have plenty of long academic letters about the principles of disclosure, but we are looking for targeted, concrete recommendations to reduce immaterial disclosure and encourage companies to focus on the information that is material to investors. The Division can especially use data, including but not limited to the cost of compliance with specific SEC rules. Go ahead and mark up the reg text itself – we aren’t afraid of some red ink on our script. Please feel free to submit your comments on Regulation S-X as well.
+Semi-Annual Reporting
+It may feel as though we’re still stuck in
+The Terminal
+with semi-annual reporting. President Trump initially called for an end to quarterly reporting in a social media post in 2018, and the SEC followed up with a request for comment, but unfortunately nothing materialized at the time.
+[8]
+In September 2025, the President again called for a reconsideration of mandatory quarterly reporting. This time, however, I expect things will be different. Chairman Atkins has asked us to prioritize this proposal.
+[9]
+It’s time to leave the airport at last and travel forward with a formal rulemaking. As we prepare recommendations for the Commission, we will be considering what other rule changes may be needed to ensure any transition to a semi-annual reporting process will be smooth and free from any regulatory turbulence.
+Like selecting the perfect travel snack once in the air, there’s no one-size-fits-all solution. For some companies and their investors, semi-annual reporting may make sense. Other companies, however, may have reasons why quarterly reporting still works best for them. We want to hear a broad range of market participants’ thoughts on the best way to structure the final rule before making the Division’s ultimate recommendation to the Commission.
+If you have any data (including from other jurisdictions) on the possible effects of changing the reporting cycle, please send us that information through the comment process once a rule proposal is out.
+HFIAA and Concept Releases
+As in
+Indiana Jones
+, distant foreign lands offer unexpected changes, excitement, and adventure. As part of the 2026 National Defense Authorization Act, Congress passed the HFIAA. The HFIAA subjects the directors and officers of reporting FPIs to the SEC’s insider transaction reporting regime and mandates that the SEC implement any necessary rule changes by March 18, 2026.
+[10]
+Unlike some of the mazes that challenged the intrepid explorer Indiana Jones, Congress gave us a clear map to guide us for what needs to be done in short order. And, like Indy, we are racing ahead of a rolling boulder – in this case, the March 18, 2026, deadline to complete the mandated rulemaking.
+The Division is working to get its rulemaking recommendations to the Commission ahead of the deadline. Still, it’s important to keep in mind that the Exchange Act Section 16(a) amendments made by the HFIAA are self-executing, so, regardless of the rulemaking’s status, officers and directors of reporting FPIs must comply with the Section 16(a) reporting obligations beginning March 18, 2026. Our EDGAR Business Office recently put out a message recommending that directors and officers of FPIs request their filer identification numbers early so that there are not thousands of requests rushing in right before the deadline comes crashing down.
+[11]
+The HFIAA gave the Commission the authority to exempt directors and officers of reporting FPIs in jurisdictions in which the applicable foreign law requirements are “substantially similar” to Section 16(a). Division staff is analyzing the laws of foreign jurisdictions and may make recommendations to the Commission in this area.
+FPIs also have a starring role in our June 2025 Concept Release on Foreign Private Issuer Eligibility.
+[12]
+The Division is processing the comments received thus far on that release. And don’t forget our September 2025 Concept Release on Residential Mortgage-Backed Securities Disclosures and Enhancements to Asset-Backed Securities Registration.
+[13]
+The comment period for that release recently closed and we’re wrapping up our review of comments received to date in preparation for making a recommendation to the Commission about a potential rule proposal.
+Staff Guidance and More
+Don’t expect a quiet summer ahead as we continue our work on an extensive overhaul of our rules to implement regulatory reform. Nowadays, in between the flashy blockbuster sequels, you can watch a steady stream of good shows that help move the plot along to keep pace with the market. Between the big rulemakings that I just described, we will be issuing staff-level guidance that will continue to help companies, their advisors, investors, and other market participants more efficiently navigate our rules. The Division has been putting out interpretive guidance and no-action letters on a variety of topics, including tender offers, broker searches, exempt proxy solicitations, spin-offs, crypto assets, and Section 13(d) group formation. You can expect to see even more staff guidance in the near future. We want to do what we can to assist registrants and smooth the path to capital formation without sacrificing investor protection.
+Disclosure Review
+Some movie franchises have a seemingly endless number of sequels and remakes. Our Disclosure Review Program’s prolific output dwarfs the number of
+Jurassic Park
+films. After receiving nearly 1,000 registration statements during the Fall 2025 government shutdown (with more flowing in after the shutdown ended), the Disclosure Review Program triaged filings and processed them as quickly as possible in the order received. Lapse times are still a bit longer than usual, but they are trending downward as the program resumes normal operations.
+I am proud of our updated shutdown guidance related to Rule 430A that allowed issuers greater flexibility with respect to pricing offerings that were filed without a delaying amendment.
+[14]
+Some of these offerings went effective automatically after the passage of 20 days. Remember that you won’t see notices of effectiveness on EDGAR for registration statements that went automatically effective. Those notices are only issued when the staff declares a registration statement effective by delegated authority. There has also been a delay in posting comment letters due to the dig-out from the shutdown, so keep in mind that the number of letters and correspondence posted may not yet reflect what was actually finalized over the last few months. If you have any questions, your review team stands ready to assist.
+Shareholder Proposals
+Speaking of sequels, the shareholder proposals task force is taking a much-needed break after decades of proxy proposal review seasons. The Division’s November statement pausing the task force due to resource constraints has led to a number of questions and practical approaches taken by proponents and companies alike.
+[15]
+We have been doing a lot of outreach to companies, investors, and proxy advisors to answer questions and listen to concerns.
+We are seeing a mixed result so far, with over 150 no-objection letter requests received, while other proposals are included in company proxy statements. We aren’t putting a thumb on the outcome scale either way, so we aren’t surprised to see companies reaching different conclusions based on the details of the proposals, independent legal analysis, and their own business and risk assessments. A rulemaking to modernize the shareholder proposals rule is on the Commission’s agenda and the Division is in the process of preparing its recommendations.
+***
+Under my leadership, there is an open-door policy in the Division. I invite companies, investors, and other market participants to tell us what’s working and what’s not, and where there are issues, please propose a solution. The Division is ready to usher in a new day for public companies and their investors. We need your ideas, suggestions, comments, and data to get there. Help us help you!
+Then grab a seat and your popcorn before the feature films start rolling. Exciting times lie ahead!
+[1]
+This statement is provided in the author’s official capacity as the Commission’s Director of the Division of Corporation Finance but does not necessarily reflect the views of the Commission, Commissioners, or other members of the staff. This statement is not a rule, regulation, or statement of the Commission. The Commission has neither approved nor disapproved its content. This statement, like all staff statements, has no legal force or effect: it does not alter or amend applicable law, and it creates no new or additional obligations for any person.
+[2]
+Office of Information and Regulatory Affairs, Agency Rule List – Spring 2025, Securities and Exchange Commission,
+https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode&showStage=active&agencyCd=3235
+.
+[3]
+Mark T. Uyeda, Commissioner, U.S. Securities and Exchange Commission,
+Remarks at the “SEC Speaks” Conference 2025
+(May 19, 2025),
+https://www.sec.gov/newsroom/speeches-statements/uyeda-remarks-sec-speaks-051925
+.
+[4]
+Paul S. Atkins, Chairman, U.S. Securities and Exchange Commission,
+The SEC’s Approach to Digital Assets: Inside “Project Crypto”
+(Nov. 12, 2025),
+https://www.sec.gov/newsroom/speeches-statements/atkins-111225-secs-approach-digital-assets-inside-project-crypto
+.
+[5]
+See
+Crypto@SEC,
+https://www.sec.gov/featured-topics/crypto-task-force/cryptosec
+.
+[6]
+Paul S. Atkins, Chairman, U.S. Securities and Exchange Commission,
+Statement on Reforming Regulation S-K
+(Jan. 13, 2026),
+https://www.sec.gov/newsroom/speeches-statements/atkins-statement-reforming-regulation-s-k-011326
+.
+[7]
+Paul S. Atkins, Chairman, U.S. Securities and Exchange Commission,
+Statement on the Upcoming Executive Compensation Roundtable
+(May 16, 2025),
+https://www.sec.gov/newsroom/speeches-statements/statement-upcoming-executive-compensation-roundtable
+.
+[8]
+Request for Comment on Earnings Releases and Quarterly Reports
+, Release No. 33-10588 (Dec. 18, 2018),
+https://www.sec.gov/files/rules/other/2018/33-10588.pdf
+.
+[9]
+Cherian, J.M, Krauskopf, L., Gillison, D., Reuters,
+Trump renews calls for ending quarterly reports for companies
+(Sept. 16, 2025),
+https://www.reuters.com/sustainability/boards-policy-regulation/trump-renews-calls-ending-quarterly-reports-companies-2025-09-16/
+.
+[10]
+National Defense Authorization Act, Pub. L. No. 119-60 (Dec. 18, 2025), Sec. 8103.
+[11]
+New Reporting Requirements Pursuant to Holding Foreign Insiders Accountable Act
+(Jan. 13, 2026),
+https://www.sec.gov/newsroom/whats-new/new-reporting-requirements-pursuant-holding-foreign-insiders-accountable-act
+. Note that foreign law requirements for notarization can differ quite a bit from what’s required in the U.S., so those new Section 16 filers may want to allow sufficient time to meet the requirements.
+[12]
+Concept Release on Foreign Private Issuer Eligibility
+, Release No. 33-11376 (June 4, 2025),
+https://www.sec.gov/files/rules/concept/2025/33-11376.pdf
+.
+[13]
+Concept Release on Residential Mortgage-Backed Securities Disclosure and Enhancements to Asset-Backed Securities Registration
+, Release No. 33-11391 (Sept. 26, 2025),
+https://www.sec.gov/files/rules/concept/2025/33-11391.pdf
+.
+[14]
+Updated Division of Corporation Finance Actions in Advance of a Potential Government Shutdown
+(Oct. 9, 2025),
+https://www.sec.gov/newsroom/whats-new/updated-division-corporation-finance-actions-advance-potential-government-shutdown-october-09-2025
+.
+[15]
+Statement Regarding the Division of Corporation Finance’s Role in the Exchange Act Rule 14a-8 Process for the Current Proxy Season
+(Nov. 17, 2025),
+https://www.sec.gov/newsroom/speeches-statements/statement-regarding-division-corporation-finances-role-exchange-act-rule-14a-8-process-current-proxy-season
+.
+Last Reviewed or Updated:
+Feb. 13, 2026
+Return to top
+SEC homepage
+About the SEC
+Budget & Performance
+Careers
+Commission Votes
+Contact
+Contracts
+Transparency
+Accessibility & Disability
+Artificial Intelligence
+Cummings Notice
+FOIA
+Inspector General
+No FEAR Act Data
+Ombuds
+SEC Excess Personal Property Guidance
+Websites
+Investor.gov
+Related Sites
+USA.gov
+Site Information
+Plain Writing
+Privacy & Security
+Site Map
+Stay connected. Sign up for email updates.
+Your email address
+Sign Up
+X
+Facebook
+Instagram
+RSS
+YouTube
+Email Updates

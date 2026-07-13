@@ -1,0 +1,340 @@
+Title: Statement on Tokenized Securities
+Link: https://www.sec.gov/newsroom/speeches-statements/corp-fin-statement-tokenized-securities-012826-statement-tokenized-securities
+Published: Wed, 28 Jan 2026 10:58:51 -0500
+
+SEC.gov | Statement on Tokenized Securities
+Skip to search field
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+A locked padlock
+)
+              or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+SEC homepage
+Menu
+Close
+Search SEC.gov & EDGAR
+Search
+Search Filings
+Search Filings
+Full Text Search
+Latest Filings
+Mutual Fund Search
+Variable Insurance Products Search
+SIC Codes
+CIK Lookup
+Public Dissemination Service (PDS)
+Search Assistance
+Submit Filings
+Submit Filings
+EDGAR Filer Management Portal
+EDGAR Filing Portal
+Online Forms Management Portal
+EDGAR Next
+Forms Index
+Filer Support & Resources
+Data & Research
+Data & Research
+SEC & Markets Data
+Taxonomies
+Statistics & Data Visualizations
+Rules, Enforcement, & Compliance
+Rules & Regulations
+Rulemaking Activity
+Statutes & Regulations
+Staff Guidance
+No-Action, Interpretive, and Exemptive Letters
+Self-Regulatory Organization Rulemaking
+Public Petitions for Rulemaking
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+Compliance
+Examination Priorities
+Risk Alerts
+Compliance Outreach Program
+Proposed Rules
+What's New
+Whistleblower Program
+Featured Topics
+Featured Topics
+Crypto Task Force
+Cybersecurity
+Market Structure Analytics
+Saving and Investing for Military Personnel
+Saving and Investing for Teachers
+SEC-CFTC Harmonization Initiative
+Treasury Clearing Implementation
+About
+About
+Mission
+Commissioners
+Divisions & Offices
+Division & Office Directors
+Advisory Committees
+Budget & Performance
+Reports & Publications
+Commission Votes
+Contact the SEC
+Careers
+Submit a Tip or Complaint
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Search SEC.gov & EDGAR
+Search
+More in this Section
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Home
+Newsroom
+Speeches and Statements
+Statement on Tokenized Securities
+Statement
+Statement on Tokenized Securities
+Division of Corporation Finance, Division of Investment Management, Division of Trading and Markets
+Washington D.C.
+Jan. 28, 2026
+Introduction
+As part of an effort to provide greater clarity on the application of the federal securities laws to crypto assets,
+[1]
+the Division of Corporation Finance, Division of Investment Management, and Division of Trading and Markets are providing their views
+[2]
+on the taxonomies associated with tokenized securities.
+[3]
+A tokenized security is a financial instrument enumerated in the definition of “security”
+[4]
+under the federal securities laws that is formatted as or represented by a crypto asset, where the record of ownership is maintained in whole or in part on or through one or more crypto networks. There are a variety of models used to tokenize securities and they vary in terms of structure and the rights afforded to holders. Tokenized securities generally fall into two categories: (1) securities tokenized by or on behalf of the issuers of such securities; and (2) securities tokenized by third parties unaffiliated with the issuers of such securities.
+[5]
+This statement is intended to assist market participants as they seek to comply with the federal securities laws and prepare to submit any necessary registrations, proposals, or requests for appropriate action to the Commission or its staff. We stand ready to engage regarding any questions.
+Issuer-Sponsored Tokenized Securities
+An issuer may tokenize a security by issuing it in the format of a crypto asset.
+[6]
+To accomplish this, the issuer (or its agent) integrates DLT into the systems that it uses to record owners of the security (the “master securityholder file”), such that a transfer of the crypto asset on the crypto network results in a transfer of the security on the master securityholder file. Consequently, the only difference between a security issued in this manner and securities issued in traditional format is that instead of maintaining the master securityholder file through conventional, offchain database records, the issuer (or its agent) maintains the master securityholder file on one or more crypto networks, which functionally are onchain database records. As part of this recordkeeping system, the issuer (or its agent) uses onchain database records alongside offchain database records and associates the onchain information (
+e.g.
+, wallet address, quantity of security owned, and issue date) with relevant offchain information (
+e.g.
+, security holder name and address).
+A single class of securities could be issued in multiple formats, including tokenized format. Similarly, an issuer may permit security holders to hold a security in different formats and convert the security from one format to another. The format in which a security is issued or the methods by which holders are recorded (
+e.g.
+, onchain vs. offchain) does not affect application of the federal securities laws.
+[7]
+For example, regardless of its format, the Securities Act requires that every offer and sale of a security must be registered with the Commission unless an exemption from registration is available. Similarly, stock is an “equity security” under the Securities Act and the Exchange Act regardless of its format.
+[8]
+On the other hand, the tokenized security could be of a different class of securities from those issued in traditional format. For example, an issuer could issue one class of common stock in traditional format and issue a separate class of common stock as a tokenized security. However, if the tokenized security is of substantially similar character as the security issued in traditional format and holders of the tokenized security enjoy substantially similar rights and privileges, the tokenized security may be considered of the same class as the security issued in traditional format for certain purposes under the federal securities laws.
+[9]
+Alternatively, an issuer (or its agent) may tokenize a security without a crypto network constituting, or being part of, the master securityholder file. Under this model, the issuer issues the security offchain and issues a crypto asset to security holders. The crypto asset does not convey any rights, obligations, or benefits of the security, and the crypto asset and its onchain database records are not directly integrated into the master securityholder file for the security.
+[10]
+Instead, the crypto asset may be used indirectly to effect transfers of the security on the master securityholder file. In this case, the transfer of the crypto asset, which is a securities transaction, operates to notify the issuer (or its agent) to record the transfer of ownership of the security on the master securityholder file. Because the offchain database records constitute the master securityholder file, the issuer (or its agent) will use the onchain database records to update the offchain database records to record the transfer of ownership of the security.
+Third Party-Sponsored Tokenized Securities
+In addition to issuer-sponsored tokenized securities, third parties unaffiliated with an issuer of a security could tokenize the unaffiliated issuer’s security. The models that third parties are using to tokenize securities vary, and the rights, obligations, and benefits associated with the crypto asset may or may not be materially different from those of the underlying security. In addition, the crypto asset may or may not represent an ownership interest in or contractual obligation of the issuer of the underlying security and, as such, may or may not confer upon the holder of the crypto asset any rights as a holder of the underlying security. Further, holders of the crypto asset may be exposed to risks with respect to the third party, such as bankruptcy, to which a holder of the underlying security would not necessarily be exposed.
+We have observed two models where a third party tokenizes securities issued by another person: custodial tokenized securities and synthetic tokenized securities. Under the first model, the third party issues a crypto asset representing the underlying security, such as a tokenized security entitlement.
+[11]
+The underlying security is held in custody, and the crypto asset evidences the holder’s ownership interest (whether direct or indirect) in the underlying security being held in custody. Under the second model, the third party issues a crypto asset representing its own security that provides synthetic exposure to the underlying security, such as a tokenized linked security or a tokenized security-based swap.
+[12]
+First Model: Custodial Tokenized Securities
+Tokenized Security Entitlement
+A third party may tokenize a security issued by another person by creating a security entitlement that is formatted as a crypto asset.
+[13]
+Similar to the issuer-sponsored model discussed above, the third party may accomplish this by integrating DLT into the systems that it uses to record entitlement holders, such that a transfer of the crypto asset results in a transfer of the security entitlement on the third party’s records. Under this model, the crypto asset represents the holder’s indirect interest in the underlying security via the security entitlement.
+[14]
+The format in which the security entitlement is issued does not affect application of the federal securities laws.
+Alternatively, a third party may tokenize a security entitlement without a crypto network constituting, or being part of, the systems that it uses to record entitlement holders. Under this model, the crypto asset may nonetheless be used to transfer the security entitlement on the third party’s records similar to the issuer-sponsored model discussed above.
+[15]
+Because the records are maintained offchain, the third party will use the onchain database records to update the offchain database records to record the transfer of the security entitlement.
+Second Model: Synthetic Tokenized Securities
+Linked Security
+A third party may tokenize a security issued by another person by issuing a “linked security” formatted as a crypto asset. A “linked security” is a security issued by the third party itself that provides synthetic exposure to a referenced security, but it is not an obligation of the issuer of the referenced security and confers no rights or benefits from the issuer of the referenced security. The return on a linked security is linked to the value of the security it references or events relating to the referenced security. A linked security may be a debt security (such as a structured note
+[16]
+) or an equity security (such as exchangeable stock). Under certain circumstances, as discussed below, a linked security may be a security-based swap. The crypto asset representing the linked security is similar to the crypto assets discussed under “Issuer-Sponsored Tokenized Securities” above.
+Security-Based Swap
+A third party may tokenize a security issued by another person by issuing a security-based swap formatted as a crypto asset.
+[17]
+A security-based swap is a security that generally provides synthetic exposure to, among other things, either a referenced security or certain referenced events relating to an issuer of a security. A security-based swap typically does not convey to the holder any equity, voting, information, or other rights with respect to the referenced security. The third party may not offer or sell the crypto asset representing the security-based swap to persons who are not eligible contract participants
+[18]
+unless a Securities Act registration statement is in effect as to the crypto asset,
+[19]
+and the transactions in the crypto asset are effected on a national securities exchange.
+[20]
+The crypto asset representing the security-based swap is similar to the crypto assets discussed under “Issuer-Sponsored Tokenized Securities” above.
+The term “security-based swap” is defined in Section 3(a)(68) of the Exchange Act. The definition of “security-based swap” includes any agreement, contract, or transaction that is a swap (as defined in Section 1a of the CEA)
+[21]
+and is based on: (1) an index that is a narrow-based security index, including any interest therein or on the value thereof; (2) a single security or loan, including any interest therein or on the value thereof; or (3) the occurrence, nonoccurrence, or extent of the occurrence of an event relating to a single issuer of a security or the issuers of securities in a narrow-based security index, provided that such event directly affects the financial statements, financial condition, or financial obligations of the issuer. If a financial instrument formatted as a crypto asset is a swap and it satisfies one of the three prongs of the definition of “security-based swap,” then the crypto asset may represent a security-based swap. For example, if the crypto asset provides on an executory basis for the exchange, on a fixed or contingent basis, of one or more payments based on the value of a security, but does not also convey a current or future direct or indirect ownership interest in an asset or liability that incorporates the financial risk transferred, that crypto asset may represent a security-based swap.
+[22]
+Similarly, if the crypto asset provides for payments that are dependent on the occurrence, non-occurrence or extent of occurrence of an event or contingency that is associated with a potential financial, economic, or commercial consequence, does not fall within one of the specified exclusions, and meets any of the three prongs of the security-based swap definition discussed above, that crypto asset may represent a security-based swap.
+[23]
+Security-based swaps and linked securities are economically similar, although certain additional or different provisions apply to the regulation of security-based swaps under the federal securities laws, including with respect to transactions with persons who are not eligible contract participants as noted above.
+[24]
+The assessment of whether a financial instrument is a security-based swap or a linked security depends, in part, on the exclusions from the definition of “swap.” There are several exclusions from the definition of “swap” relating to securities.
+[25]
+To the extent a financial instrument falls into one of these exclusions, it is not a swap and, therefore, is not a security-based swap. For example, any note, bond, or evidence of indebtedness that is a security, as defined in Section 2(a)(1) of the Securities Act, is excluded from the definition of swap.
+[26]
+Similarly, any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities, including any interest therein or based on the value thereof, that is subject to the Securities Act and the Exchange Act, is excluded from the definition of swap.
+[27]
+When assessing whether a financial instrument formatted as a crypto asset satisfies one of these exclusions, the economic reality of the instrument rather than the name given to the instrument determines whether it is excluded.
+[28]
+Further Information
+If you have inquiries for the Division of Corporation Finance, please submit your questions to the Division’s Office of Chief Counsel using the
+Corporation Finance Request Form for Interpretive Advice and Other Assistance
+. If you have inquiries for the Division of Investment Management, please review the Division's
+Contact Information page
+for relevant contacts. If you have inquiries for the Division of Trading and Markets, please call (202) 551-5777 or email
+tradingandmarkets@sec.gov
+.
+[1]
+For purposes of this statement: a “crypto asset” is any digital representation of value that is recorded on a cryptographically secured distributed ledger; and a “crypto network” is a blockchain or similar distributed ledger technology (“DLT”) network. In addition, for purposes of this statement, “onchain” refers to transactions or data that are processed and recorded directly on a crypto network and “offchain” refers to transactions or data that are processed and recorded outside of a crypto network. The foregoing definition of “crypto asset” is identical to the definition of “Digital Asset” in Section 2(6) of the Guiding and Establishing National Innovation for U.S. Stablecoins Act, Pub. L. No. 119-27, 139 Stat. 419 (2025).
+[2]
+This statement represents the views of the staff of the Division of Corporation Finance, Division of Investment Management, and Division of Trading and Markets. It is not a rule, regulation, guidance, or statement of the U.S. Securities and Exchange Commission (“Commission”), and the Commission has neither approved nor disapproved its content. This statement, like all staff statements, has no legal force or effect: it does not alter or amend applicable law, and it creates no new or additional obligations for any person.
+[3]
+Tokenization is the process of creating a digital representation of a tangible or intangible asset using DLT.
+[4]
+The term “security” is defined in Section 2(a)(1) of the Securities Act of 1933 (“Securities Act”), Section 3(a)(10) of the Securities Exchange Act of 1934 (“Exchange Act”), and Section 2(a)(36) of the Investment Company Act of 1940 (“Investment Company Act”).
+[5]
+Both federal and state law govern the activities, transactions, and relationships among the parties involved with tokenizing securities. For purposes of this statement, we assume that the activities and transactions by the parties described in this statement are in compliance with applicable law and any governing documents. For example, we assume that tokenized securities are not subject to any restriction on transfer imposed by the issuer and are properly issued and transferred under applicable state law, and that, in each instance, a transfer of the crypto asset results in a transfer of control of the security or security entitlement and/or ownership of the security or security entitlement via an effective indorsement, instruction, or entitlement order, as the case may be.
+See
+Article 8 of the Uniform Commercial Code.
+[6]
+It is possible to tokenize any type of security, including stocks, bonds, notes, investment contracts, options on securities, and security-based swaps. This statement assumes that the crypto asset created to represent the security is not itself a separate security.
+[7]
+An issuer that is subject to the Investment Company Act and issues its securities in different formats, including in tokenized format on different crypto networks, may raise multi-class issues under Section 18 of the Investment Company Act.
+[8]
+See
+Section 3(a)(11) of the Exchange Act, Rule 3a11-1 under the Exchange Act, and Rule 405 under the Securities Act.
+[9]
+See, e.g.,
+Sections 12(g)(5) and 15(d)(1) of the Exchange Act.
+[10]
+This statement assumes that the crypto asset created to represent the security is not itself a separate security.
+[11]
+We are aware of a tokenization model known as “digital custodial receipt.” Based on our current understanding of this model, we do not view it as separate or distinct from the tokenized security entitlement model and, therefore, do not address it separately in this statement.
+[12]
+Under this model, depending on the facts and circumstances, the third party may be deemed to be an investment company under the Investment Company Act.
+[13]
+For a more fulsome description of the indirect system of ownership,
+see Concept Release on the U.S. Proxy System
+, Release No. 34-62495 (Jul. 14, 2010), 75 FR 42982 (Jul. 22, 2010).
+See also
+The Depository Trust Company
+no-action letter (Dec. 11, 2025), available at
+https://www.sec.gov/files/tm/no-action/dtc-nal-121125.pdf
+.
+[14]
+This statement assumes that the crypto asset created to represent the security is not itself a separate security.
+[15]
+Id.
+[16]
+See
+Office of Investor Education and Advocacy,
+Investor Bulletin: Structured Notes
+(Jan. 12, 2015), available at
+https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-76
+.
+[17]
+This is not the only circumstance in which a tokenized security could result in a security-based swap. Depending upon the facts and circumstances, securities tokenized by or on behalf of the issuers of such securities also could result in a security-based swap.
+[18]
+The term “eligible contract participant” is defined in Section 1a(19) of the Commodity Exchange Act (“CEA”). In 2012, the Commission and the Commodity Futures Trading Commission, in consultation with the Board of Governors of the Federal Reserve System, jointly further defined the term “eligible contract participant.”
+See
+Further Definition of “Swap Dealer,” “Security-Based Swap Dealer,” “Major Swap Participant,” “Major Security-Based Swap Participant” and “Eligible Contract Participant,”
+Release No. 34-66868 (Apr. 27, 2012), 77 FR 30596 (May 23, 2012).
+[19]
+See
+Section 5(e) of the Securities Act. Alternatively, the offer and sale of the crypto asset to eligible contract participants could be conducted pursuant to an exemption from the registration requirements of the Securities Act.
+[20]
+See
+Section 6(l) of the Exchange Act. Transactions in the crypto asset among eligible contract participants do not need to be effected on a national securities exchange. For example, such transactions could be effected bilaterally or on a security-based swap execution facility.
+[21]
+The term “swap” is defined in Section 1a(47) of the CEA and consists of six prongs and specified exclusions.
+See
+Section 1a(47)(A) and (B) of the CEA, respectively. If a crypto asset satisfies one or more of the prongs of the definition of “swap” and does not fall within one of the statutorily specified exclusions, the crypto asset is a swap.
+[22]
+See
+Section 1a(47)(A)(iii) of the CEA and Section 3(a)(68) of the Exchange Act.
+[23]
+See
+Section 1a(47)(A)(ii) of the CEA and Section 3(a)(68) of the Exchange Act.
+[24]
+See
+footnote 18 above and accompanying text.
+[25]
+See
+Section 1a(47)(B) of the CEA.
+[26]
+See
+Section 1a(47)(B)(vii) of the CEA. Structured notes typically fall within this exclusion.
+[27]
+See
+Section 1a(47)(B)(iii) of the CEA.
+[28]
+See Tcherepnin v. Knight
+, 389 U.S. 332, 336 (1967) (noting that in searching for the meaning and scope of the word “security,” form should be disregarded for substance, and the emphasis should be on economic reality).
+Last Reviewed or Updated:
+Jan. 30, 2026
+Return to top
+SEC homepage
+About the SEC
+Budget & Performance
+Careers
+Commission Votes
+Contact
+Contracts
+Transparency
+Accessibility & Disability
+Artificial Intelligence
+Cummings Notice
+FOIA
+Inspector General
+No FEAR Act Data
+Ombuds
+SEC Excess Personal Property Guidance
+Websites
+Investor.gov
+Related Sites
+USA.gov
+Site Information
+Plain Writing
+Privacy & Security
+Site Map
+Stay connected. Sign up for email updates.
+Your email address
+Sign Up
+X
+Facebook
+Instagram
+RSS
+YouTube
+Email Updates

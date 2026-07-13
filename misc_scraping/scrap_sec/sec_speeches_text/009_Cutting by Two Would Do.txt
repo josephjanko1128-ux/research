@@ -1,0 +1,181 @@
+Title: Cutting by Two Would Do
+Link: https://www.sec.gov/newsroom/speeches-statements/peirce-stablecoin-021926-cutting-two-would-do
+Published: Thu, 19 Feb 2026 13:41:27 -0500
+
+SEC.gov | Cutting by Two Would Do
+Skip to search field
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+A locked padlock
+)
+              or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+SEC homepage
+Menu
+Close
+Search SEC.gov & EDGAR
+Search
+Search Filings
+Search Filings
+Full Text Search
+Latest Filings
+Mutual Fund Search
+Variable Insurance Products Search
+SIC Codes
+CIK Lookup
+Public Dissemination Service (PDS)
+Search Assistance
+Submit Filings
+Submit Filings
+EDGAR Filer Management Portal
+EDGAR Filing Portal
+Online Forms Management Portal
+EDGAR Next
+Forms Index
+Filer Support & Resources
+Data & Research
+Data & Research
+SEC & Markets Data
+Taxonomies
+Statistics & Data Visualizations
+Rules, Enforcement, & Compliance
+Rules & Regulations
+Rulemaking Activity
+Statutes & Regulations
+Staff Guidance
+No-Action, Interpretive, and Exemptive Letters
+Self-Regulatory Organization Rulemaking
+Public Petitions for Rulemaking
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+Compliance
+Examination Priorities
+Risk Alerts
+Compliance Outreach Program
+Proposed Rules
+What's New
+Whistleblower Program
+Featured Topics
+Featured Topics
+Crypto Task Force
+Cybersecurity
+Market Structure Analytics
+Saving and Investing for Military Personnel
+Saving and Investing for Teachers
+SEC-CFTC Harmonization Initiative
+Treasury Clearing Implementation
+About
+About
+Mission
+Commissioners
+Divisions & Offices
+Division & Office Directors
+Advisory Committees
+Budget & Performance
+Reports & Publications
+Commission Votes
+Contact the SEC
+Careers
+Submit a Tip or Complaint
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Search SEC.gov & EDGAR
+Search
+More in this Section
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Home
+Newsroom
+Speeches and Statements
+Cutting by Two Would Do
+Statement
+Cutting by Two Would Do
+Commissioner Hester M. Peirce
+Washington D.C.
+Feb. 19, 2026
+Today, the staff of the Division of Trading and Markets issued an
+FAQ
+relating to the treatment of payment stablecoins
+[1]
+under the broker-dealer net capital rule (Exchange Act Rule 15c3-1). The FAQ provides that the staff would not object if a broker-dealer were to apply a 2% haircut on proprietary positions in a payment stablecoin when calculating its net capital.
+[2]
+I appreciate the staff’s approach.
+Stablecoins are essential to transacting on blockchain rails. Using stablecoins will make it feasible for broker-dealers to engage in a broader range of business activities relating to tokenized securities and other crypto assets.
+FAQs like this shed light on the staff’s thinking about emerging issues. At the Commission level, I would like to consider how Rule 15c3-1 could be amended to account for payment stablecoins. To that end, I would be grateful to hear from market participants about their views, and welcome input on other aspects of our rules that they believe should be modified to address the use of payment stablecoins by SEC-registered entities.
+[1]
+The term “payment stablecoin” is defined in the FAQ as: (a) prior to the effective date of the GENIUS Act, a USD-denominated stablecoin that: (1) is issued by a state regulated money transmitter, state-regulated trust company, or a national trust bank; (2) maintains reserve assets that meet the requirements of 12 U.S.C. 5903(a)(1)(A); (3) publicly discloses the issuer’s redemption policy; and (4) publishes a monthly attestation report prepared by a registered public accounting firm as defined in 12 U.S.C. 5901(26) applying the attestation standards of the American Institute of Certified Public Accountants regarding the composition of the reserve assets and whether the fair value of the assets held in reserve is equal to the amount of stablecoins in circulation; and (b) following the effective date of the GENIUS Act, a stablecoin that meets the requirements contained in the GENIUS Act’s definition of “payment stablecoin” and is issued by a “permitted payment stablecoin issuer” or a “foreign payment stablecoin issuer” that complies with the GENIUS Act’s requirements applicable to such issuers.
+[2]
+Rule 15c3-1 does not explicitly address payment stablecoins. I understand that some broker-dealers, out of an abundance of caution, have proposed to take a 100% haircut on payment stablecoins held in their inventory. In my view, a 100% haircut would be unnecessarily punitive given the underlying reserve assets that back payment stablecoins (generally, U.S. dollars, short-term U.S. Treasury securities and other similar instruments). For context, a haircut of 2% aligns with the haircut imposed on registered investment companies that are money market funds, which hold similar instruments as payment stablecoin issuers. In fact, following the effective date of the GENIUS Act, the reserve requirements for permitted payment stablecoin issuers will be more limiting than the “eligible securities” requirements that apply to registered money market funds, including government money market funds.
+Last Reviewed or Updated:
+Feb. 19, 2026
+Return to top
+SEC homepage
+About the SEC
+Budget & Performance
+Careers
+Commission Votes
+Contact
+Contracts
+Transparency
+Accessibility & Disability
+Artificial Intelligence
+Cummings Notice
+FOIA
+Inspector General
+No FEAR Act Data
+Ombuds
+SEC Excess Personal Property Guidance
+Websites
+Investor.gov
+Related Sites
+USA.gov
+Site Information
+Plain Writing
+Privacy & Security
+Site Map
+Stay connected. Sign up for email updates.
+Your email address
+Sign Up
+X
+Facebook
+Instagram
+RSS
+YouTube
+Email Updates

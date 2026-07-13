@@ -1,0 +1,199 @@
+Title: Remarks at Financial Stability Oversight Council Artificial Intelligence Innovation Series Roundtable on Strategy and Governance Principles
+Link: https://www.sec.gov/newsroom/speeches-statements/atkins-remarks-at-financial-stability-oversight-council-artificial-intelligence-innovation-series-roundtable-030426
+Published: Wed, 04 Mar 2026 10:12:47 -0500
+
+SEC.gov | Remarks at Financial Stability Oversight Council Artificial Intelligence Innovation Series Roundtable on Strategy and Governance Principles
+Skip to search field
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+A locked padlock
+)
+              or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+SEC homepage
+Menu
+Close
+Search SEC.gov & EDGAR
+Search
+Search Filings
+Search Filings
+Full Text Search
+Latest Filings
+Mutual Fund Search
+Variable Insurance Products Search
+SIC Codes
+CIK Lookup
+Public Dissemination Service (PDS)
+Search Assistance
+Submit Filings
+Submit Filings
+EDGAR Filer Management Portal
+EDGAR Filing Portal
+Online Forms Management Portal
+EDGAR Next
+Forms Index
+Filer Support & Resources
+Data & Research
+Data & Research
+SEC & Markets Data
+Taxonomies
+Statistics & Data Visualizations
+Rules, Enforcement, & Compliance
+Rules & Regulations
+Rulemaking Activity
+Statutes & Regulations
+Staff Guidance
+No-Action, Interpretive, and Exemptive Letters
+Self-Regulatory Organization Rulemaking
+Public Petitions for Rulemaking
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+Compliance
+Examination Priorities
+Risk Alerts
+Compliance Outreach Program
+Proposed Rules
+What's New
+Whistleblower Program
+Featured Topics
+Featured Topics
+Crypto Task Force
+Cybersecurity
+Market Structure Analytics
+Saving and Investing for Military Personnel
+Saving and Investing for Teachers
+SEC-CFTC Harmonization Initiative
+Treasury Clearing Implementation
+About
+About
+Mission
+Commissioners
+Divisions & Offices
+Division & Office Directors
+Advisory Committees
+Budget & Performance
+Reports & Publications
+Commission Votes
+Contact the SEC
+Careers
+Submit a Tip or Complaint
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Search SEC.gov & EDGAR
+Search
+More in this Section
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Home
+Newsroom
+Speeches and Statements
+Remarks at Financial Stability Oversight Council Artificial Intelligence Innovation Series Roundtable on Strategy and Governance Principles
+Statement
+Remarks at Financial Stability Oversight Council Artificial Intelligence Innovation Series Roundtable on Strategy and Governance Principles
+Paul S. Atkins,
+Chairman
+Washington D.C.
+March 4, 2026
+Good morning, ladies and gentlemen. Let me begin by thanking our FSOC hosts for convening this roundtable series and for the invitation to take part in it. I should also like to acknowledge our industry partners for joining us. Today’s public-private exchange exemplifies our conviction at the SEC to engage together with you, often and in good faith. And before I share a few reflections, let me also add the customary disclaimer that the views I express here are my own as Chairman and not necessarily those of the SEC as an institution or of the other Commissioners.
+Within the time that has been allotted to me, I cannot hope to flush out, much less to resolve, questions as sweeping as the ones before us today, including those of AI’s implications for U.S. capital markets. The complexities of artificial intelligence hardly conform to tidy conclusions. Luckily for you, you have some distinguished panelists to delve into these issues with the rigor that they command.
+Still, encouraged by the promise of this technology, I should like to focus on at least a few of our efforts at the Commission to more fully embed it into our culture. The main message that I want to leave with you today is that AI is more than an instrument of efficiency or convenience. It is a force that stands to enable investors to participate in the markets with greater confidence, businesses to allocate capital with sharper precision, and regulators to oversee those financial markets with deeper insight.
+If the scale of this new frontier feels unprecedented, it is worth considering how modestly it began—and how long humans have devised instruments to aid the mind, from the abacus onward. Some seventy years ago, in the summer of 1956, a small cohort of mathematicians and scientists assembled on the grounds of Dartmouth College for what some have since dubbed the “Constitutional Convention of AI.” They convened on a premise that “every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it.”
+[1]
+Questions that they posed at midcentury—what can a thinking machine do, and what ought we ask of it?—are not unlike the ones before us today. Nor are they unlike questions with which the SEC has wrestled in the past.
+For example, I find it instructive to recall the late SEC Commissioner Roberta Karmel, who stated back in the seventies that “data analyzing technology has progressed to a point of magnitude superior to that available just brief years ago.”
+[2]
+Commissioner Karmel added—around the advent of the word processor, mind you—that “although these developments have augmented the complexity and efficiency of the private financial sector, the SEC has not enjoyed all the benefits of this improved technology.”
+Her words were at once a warning and an enduring appeal for financial regulators to keep pace with markets that they oversee. So, for our part today, we are not content to retreat from the AI revolution, nor to remain tethered to the tools of a bygone era. Instead, our posture at the SEC is clear: we intend to understand AI; to assess its potential; and, where appropriate, to adopt its solutions.
+To those ends, we established the SEC’s AI Task Force in August to facilitate the development and deployment of AI across the Commission. This includes tools to conduct risk assessments for potential examination; to detect potential market misconduct, such as fraud and rule violations; to review disclosures with greater speed and efficiency; to react to public input on new proposals; and to evaluate market-wide risks that bear upon our capital markets.
+Of course, we are committed to using AI-enabled tools and systems in ways that augment our work responsibly. Human interaction is still required, indeed imperative, at every stage of our risk assessment program. Due process demands it. An algorithm may identify an anomaly or surface a pattern, but it does not weigh credibility or assess intent, at least not today or for the foreseeable future. Algorithmic detection of possible misconduct should not and cannot supplant the considered judgment of our commissioners and staff, nor can it serve as the sole basis of an SEC enforcement action.
+Unfortunately, every technological advance also carries with it the temptation of abuse. Bad actors have begun to exploit AI and the buzz that surrounds it. So, just as we are using AI technology to detect and address fraudulent and manipulative conduct, we will seek to hold those accountable that misuse AI technologies to further those fraudulent and manipulative schemes. We have also brought actions against bad actors for deception that involves false, misleading, or exaggerated claims about the use of AI in their products and services.
+In short, while the mechanisms of fraud may change, our obligation does not. The Commission’s mandate to protect investors is technology neutral. And misconduct remains misconduct, regardless of the medium.
+Meanwhile, the same steadiness that guides our enforcement program extends to our approach to disclosure. The SEC’s best historical regulatory approach has hewn to principles-based rules—rooted in materiality.  This time-tested approach should inform how a public company today ought to disclose developments concerning AI, just as it guides disclosures about any other development. The standard is a familiar one: whether there is a substantial likelihood that a reasonable shareholder would consider the information important in making an investment decision.
+Prescriptive mandates are not the answer to every emerging technology. And disclosure “checklists” are no substitute for materiality-based transparency that offers meaningful disclosure under established principles. If the advent of each new technology becomes a pretext for new line items, then disclosure swiftly loses its discipline. In the absence of a limiting principle, a morass of information can do more to obscure than to illuminate.
+Now, insisting on clarity in disclosure should not suggest an aversion to adoption. We actively encourage market participants to engage with our staff around innovative use cases. We seek to ingrain innovation into the SEC’s culture, broadly and deliberately. And we welcome your input on how technological advances can further the agency’s goals to protect investors; maintain fair, orderly and efficient markets; and facilitate capital formation.
+Which brings me back to where I began—to this room, and to the spirit of it.
+Seventy years ago, a small group of scholars at Dartmouth posed questions that they could not yet answer about a technology that they could not yet build. But what they could do was talk with one another. Rigorously, openly, and across disciplines—without the comfort of settled conclusions. And from that exchange, a new frontier was born.
+A generation later, Commissioner Karmel reminded us that to oversee evolving markets, regulators must remain engaged with those who comprise them. We must strive to keep up, and to collapse the distance between the regulators and the regulated.
+As innovation often begins in dialogue, so oversight strengthens through it. That is why gatherings like this one matter, for the obligation to get this right belongs to all of us. I am grateful that we are discharging it together. And I look forward to discussing how we can extend the boundaries of this technology in service of our financial system.
+Thank you, and I wish you all the best for today’s further exploration and discussion of these themes.
+[1]
+“The Research Conference Where AI Began,” available at:
+https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth
+.
+[2]
+Commissioner Roberta Karmel, Remarks to the Treasurer’s Club (October 31, 1979), available at:
+https://www.sechistorical.org/collection/papers/1970/1979_1031_KarmelProcess.pdf
+.
+Last Reviewed or Updated:
+March 4, 2026
+Return to top
+SEC homepage
+About the SEC
+Budget & Performance
+Careers
+Commission Votes
+Contact
+Contracts
+Transparency
+Accessibility & Disability
+Artificial Intelligence
+Cummings Notice
+FOIA
+Inspector General
+No FEAR Act Data
+Ombuds
+SEC Excess Personal Property Guidance
+Websites
+Investor.gov
+Related Sites
+USA.gov
+Site Information
+Plain Writing
+Privacy & Security
+Site Map
+Stay connected. Sign up for email updates.
+Your email address
+Sign Up
+X
+Facebook
+Instagram
+RSS
+YouTube
+Email Updates

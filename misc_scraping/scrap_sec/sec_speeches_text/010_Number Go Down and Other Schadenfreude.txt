@@ -1,0 +1,232 @@
+Title: Number Go Down and Other Schadenfreude
+Link: https://www.sec.gov/newsroom/speeches-statements/atkins-peirce-021826-number-go-down-other-schadenfreude
+Published: Wed, 18 Feb 2026 19:57:39 -0500
+
+SEC.gov | Number Go Down and Other Schadenfreude
+Skip to search field
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+A locked padlock
+)
+              or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+SEC homepage
+Menu
+Close
+Search SEC.gov & EDGAR
+Search
+Search Filings
+Search Filings
+Full Text Search
+Latest Filings
+Mutual Fund Search
+Variable Insurance Products Search
+SIC Codes
+CIK Lookup
+Public Dissemination Service (PDS)
+Search Assistance
+Submit Filings
+Submit Filings
+EDGAR Filer Management Portal
+EDGAR Filing Portal
+Online Forms Management Portal
+EDGAR Next
+Forms Index
+Filer Support & Resources
+Data & Research
+Data & Research
+SEC & Markets Data
+Taxonomies
+Statistics & Data Visualizations
+Rules, Enforcement, & Compliance
+Rules & Regulations
+Rulemaking Activity
+Statutes & Regulations
+Staff Guidance
+No-Action, Interpretive, and Exemptive Letters
+Self-Regulatory Organization Rulemaking
+Public Petitions for Rulemaking
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+Compliance
+Examination Priorities
+Risk Alerts
+Compliance Outreach Program
+Proposed Rules
+What's New
+Whistleblower Program
+Featured Topics
+Featured Topics
+Crypto Task Force
+Cybersecurity
+Market Structure Analytics
+Saving and Investing for Military Personnel
+Saving and Investing for Teachers
+SEC-CFTC Harmonization Initiative
+Treasury Clearing Implementation
+About
+About
+Mission
+Commissioners
+Divisions & Offices
+Division & Office Directors
+Advisory Committees
+Budget & Performance
+Reports & Publications
+Commission Votes
+Contact the SEC
+Careers
+Submit a Tip or Complaint
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Search SEC.gov & EDGAR
+Search
+More in this Section
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Home
+Newsroom
+Speeches and Statements
+Number Go Down and Other Schadenfreude
+Speech
+Number Go Down and Other Schadenfreude
+Paul S. Atkins,
+Chairman
+Commissioner Hester M. Peirce
+ETHDenver
+Denver, CO
+Feb. 18, 2026
+Commissioner Peirce:
+I am honored to be on stage today with Chairman Paul Atkins. Before we begin, let me remind you that my statements and his are our own in our official capacities and do not necessarily reflect the views of the Commission or our fellow Commissioner. Chairman Atkins needs little introduction, but let me give you a brief bio for him.
+Paul S. Atkins was sworn into office as the 34th Chairman of the Securities and Exchange Commission on April 21 of last year. Prior to returning to the SEC, Chairman Atkins was most recently chief executive of Patomak Global Partners, a consulting firm he founded in 2009. Chairman Atkins previously served as a Commissioner of the SEC from 2002 to 2008. During his tenure, he advocated for transparency, consistency, and the use of cost-benefit analysis at the agency. Chairman Atkins began his career as a lawyer in New York, focusing on a wide range of corporate transactions for U.S. and foreign clients, including public and private securities offerings and mergers and acquisitions. He was resident for 2½ years in his firm’s Paris office and admitted as conseil juridique in France. A member of the New York and Florida bars, Chairman Atkins received his J.D. from Vanderbilt University School of Law and his A.B., Phi Beta Kappa, from Wofford College in 1980. Originally from Lillington, North Carolina, Chairman Atkins grew up in Tampa, Florida. He and his wife Sarah have three sons.
+One other interesting fact about Chairman Atkins is that he speaks German and French fluently. He likely is looking for another language to add to his repertoire. Mr. Chairman, have you considered learning Solidity?
+Chairman Atkins:
+No need. Vibe coding works just fine. It is a big step up from the BASIC-PLUS and COBOL I used in college.
+Commissioner Peirce:
+Fair point, Mr. Chairman, but if the smart contract your AI writes starts saying everything is a security, we’ll suspect AI hallucination. A few years ago, if someone had told me that I would be standing at a crypto conference with the Chairman of the SEC, I would have thought that person was hallucinating. But we’re here, so let’s get to some substance. During the past year, the SEC under the leadership of Chairman Atkins and Acting Chairman Uyeda in the early part of the year has taken a lot of steps toward crypto clarity. We have:
+Sought and received written responses to multiple sets of difficult questions covering a wide range of crypto topics;
+Held several in-depth roundtables on discrete topics including the definition of a security, trading, custody, tokenization, DeFi, and privacy;
+Met with many developers and builders in Washington D.C., virtually, and in crypto-on-the-road meetings in cities across the country;
+Provided technical assistance to Congress as it works on crypto legislation;
+Launched a new initiative with the Commodity Futures Trading Commission (CFTC) to build a lasting basis for coordination and cooperation in regulating areas of joint interest, including crypto;
+Ended regulation by enforcement;
+Issued multiple staff guidance documents and frequently asked questions to help people understand what the SEC staff thinks is and is not within the SEC’s jurisdiction (including on issues like mining, staking, meme coins, and stable coins), and how regulated entities engaging with crypto can comply with our existing rules;
+Got rid of unhelpful staff guidance, such as SAB 121;
+Published a staff statement on the custody of crypto asset securities by broker-dealers;
+Issued a cross-divisional staff statement outlining a taxonomy for tokenized securities;
+Approved exchange generic listing standards for crypto ETPs;
+Issued staff no-action letters to several projects, including on tokenization and DePIN; and
+Began the process of designing rules, exemptive relief, and Commission interpretations, which will help to form the basis for a durable regulatory framework.
+Mr. Chairman, can you give us a preview of what to expect this year on the crypto regulatory front?
+Chairman Atkins:
+We have a lot on our plate. Not only will we continue to engage with Congress on its important efforts, but, as you noted, we will move forward with our regulatory work through Project Crypto, which is now a joint initiative with the CFTC. As you all know, one of our own, Mike Selig, whom Hester brought to the SEC as Chief Counsel of the Crypto Task Force in my office, is now CFTC Chairman. We are planning great things together – harmonization, joint rulemaking – a common, coordinated approach unlike anything seen before at these two, often sparring agencies. As for the SEC, I expect the Commission and staff to consider the following in the coming weeks and months:
+A Commission framework to explain how we think about crypto assets that are subject to an investment contract. How is such an investment contract formed? And how is it terminated?;
+An innovation exemption to facilitate limited trading of certain tokenized securities on novel platforms with an eye toward developing a long-term regulatory framework;
+A rulemaking proposal to establish common-sense pathways for people to raise capital in connection with the sale of crypto assets;
+No-action letters and exemptive orders to provide additional clarity, including to address wallets and other user interfaces that are not subject to registration under the Exchange Act;
+Rulemaking on custody of non-security crypto assets, including payment stablecoins, by broker-dealers;
+A transfer agent modernization rulemaking which will accommodate the role that blockchain can play in recordkeeping; and
+Additional guidance and no-action letters to help people understand how existing rules apply to their unique factual circumstances.
+Commissioner Peirce:
+Sounds like a lot of work, but for securities nerds like us, this experience is a bit like the Olympics. It’s nearly as exhilarating as hurtling downhill at 80 mph and doing acrobatics after getting big air off the ski jump or doing backflips after a quadruple lutz on ice. While not as dramatic as our talented Olympic champions, we have an unusual opportunity to consider many complex regulatory issues in light of this new technology. This task too will require some acrobatics, and we are not looking to hurt or break anything other than unwarranted regulatory impediments to technological progress.
+I want to talk for a minute about an innovation exemption, which has inspired hopes and fears that may need some moderation. Indeed, the way people talk about it now reminds me of the expectations that people have when they buy an abandoned storage unit; they are sure it will contain a rare work of art and a trunk full of gold bars. So too some people are certain the innovation exemption will cure all their regulatory headaches. Some people in TradFi, by contrast, seem to think that the soon-to-be-opened storage unit contains a monster that will swallow all of TradFi in one ugly bite. They fear the innovation exemption will let crypto firms ignore all the rules. Both groups are likely to realize that the innovation exemption is not as monumental as either faction anticipated. It would be an important step toward facilitating the integration of tokenized securities into our existing financial system, but it would not change the entire financial system overnight. We are working incrementally now, as we have always done. The goal is to facilitate the organic incorporation of new technology in a way that enhances the dynamism and resilience of the system so that it can serve investors, companies, and other users of capital effectively. Paul, please describe what you have in mind with the innovation exemption.
+Chairman Atkins:
+I would like to consider an innovation exemption to enable TradFi incumbents and crypto-native firms to experiment. For example, people trading certain tokenized securities through automated market makers, even though no one person or group of persons may be controlling that mechanism. In my view, market participants should be able to engage with decentralized applications on public, permissionless blockchains if they desire. But I expect that many Americans will be more comfortable allowing intermediaries to custody and trade on their behalf. Individual investors, not the SEC, should make the decision. I also would like to consider whether there should be a safe harbor for participants who may be facilitating such trading.
+Specifically, I would like to consider how issuers that want to tokenize their securities could work with a transfer agent or other tokenization agent to tokenize their securities so that they can be traded onchain in AMMs or other trading systems, environments, or platforms that offer decentralized liquidity. Under this possible approach, the innovation exemption would limit trading volume and could provide relief from some of our rules and certain other requirements that may not be relevant in light of how this technology works. Buyers and sellers of the tokenized securities would go through a white-listing process. The exemption would be temporary but would last long enough for us to consider developing new rules and amending existing rules to allow such trading to continue under appropriate conditions in the future and to enable any parties that need to do so to register. I would certainly welcome feedback on this potential approach.
+Commissioner Peirce:
+Thanks for giving us a peek into the storage locker. No Picassos, but no scary monsters either. Just an incremental step from which market participants can learn and which may help get us to a fit-for-purpose, long-term regulatory framework. Speaking of new things, you and I have both seen some demos to show us how some of this technology, such as decentralized trading, works. Has anything struck you about what you’ve seen?
+Chairman Atkins:
+One interesting aspect of the technology is the ability to embed compliance into the smart contract’s code. A company’s founders, for example, could code their commitment not to resell their securities for a certain period of time into the smart contract governing tokenized securities. Likewise, we can reimagine communications between issuers and their security-holders through the use of blockchain. And privacy-preserving technologies, such as zero-knowledge proofs, can revolutionize how we achieve the goals of the Bank Secrecy Act. Under this model, Americans would not have to relinquish their privacy wholesale to financial institutions, and these intermediaries would have lower compliance costs.
+Commissioner Peirce:
+That sounds promising. I worry a lot about how embedded financial surveillance is in our financial system. Americans have an opportunity to use this new technology to protect themselves from bad actors while also protecting our nation from our adversaries. We should take advantage of this moment to reacquaint ourselves with how important financial privacy is to the security of the American people.
+Now let’s address the elephant in the room: what do you think about the falling crypto prices of late? Is it time to focus our attention on this issue? Should regulators panic or even care that prices are down?
+Chairman Atkins:
+It is not the regulator’s job to worry about the daily swings of the markets; it’s our job to make sure market participants have the disclosures they need to make informed investment decisions. People whose only focus is on the number always going up are likely to be disappointed, whether they are buying stocks, precious metals, or crypto. Markets go up and markets go down in response to many factors. As regulators, the best thing we can do is to ensure that the rules governing the asset classes we regulate enable people to have the information they need to express their market sentiments through decisions about whether to buy, sell, or hold the assets at issue.
+Commissioner Peirce:
+I agree. “Number go down” is the mantra of the moment, and some crypto critics are dancing in the streets. In German, we would call this reaction “Schadenfreude,” which translates as something like “happiness about destruction.” In this context maybe we should call their attitude Ethbelowthreeglee or Bitcoinunderseventylevity. But the best way to respond to these critics is not to look around desperately for some regulatory change that will cause the number to go up again. Sure, regulatory clarity in the form of legislation and regulation can help to create a conducive environment for building. But regulation is not the well from which value springs. You have to build stuff that people want and need. That is the best way to garner support on both sides of the aisle in Washington. If people are actually using something, government will be reluctant to take it away. Mr. Chairman, can you share some lessons from your many years of working in the capital markets about how innovators can successfully engage with the regulatory system?
+Chairman Atkins:
+I agree with you that building useful things that people want and need speaks volumes in Washington. This technology, if developed carefully, could have a transformative effect on the financial system as securities move onchain. Tokenization could transform the financial system as we know it by, for example, shortening settlement cycles, facilitating the movement of collateral and dividends, facilitating proxy voting, or making it easier for people to construct and manage bespoke, diversified portfolios of investments. We stand ready to work with entrepreneurs who are building for a better future.
+I hate to repeat an oft-mocked phrase from the last administration, but “Come in and talk to us.” We will not put our thumbs on the scale in favor of any particular asset or technology, nor will we become your spokesmen, but we want our markets to be open to people offering new products and services. Our rulebook should not be the barrier to innovation, but should further our objectives of protecting investors, facilitating capital formation, and fostering fair, orderly, and efficient markets.
+Commissioner Peirce:
+You have captured the balance well. We are not cheerleaders of any new asset or technology, but we want our markets to welcome people who have ideas about how to improve them. The SEC has not always been very welcoming. Regulation, if done wrong, can deny the American people benefits they otherwise would enjoy. For example, an unwillingness to work productively with issuers of tokens led to the perverse result that tokens that gave no meaningful rights to their holders were less likely to attract negative regulatory attention than rights-bearing tokens. As a result, we now live in a world in which most tokens do not give their owners any rights. I would like to get to a place in which project developers would not fear to create tokens that carry some claim on revenue streams and thus are securities. Paul, what would it take to get to a place where people would create tokens that fall unashamedly into the securities bucket?
+Chairman Atkins:
+We need to continue doing what we are doing—providing clarity about how tokenized securities interact with existing regulation and how intermediaries dealing with tokenized securities can trade and custody them on behalf of their clients. This work can only be done in a collaborative fashion, and we welcome input from everyone, even crypto naysayers who are fully immersed in their Schadenfreude. I encourage people in the audience to think about what attributes a token should have to make it useful to people, and then work with us on a regulatory framework that accommodates these attributes without compromising our important regulatory objectives. But this process will take time, and innovators shouldn’t necessarily wait for these changes before they start building. While we have these bigger conversations about whether fundamental changes should be made to our rulebooks, talking to us to see if there’s a way to make the current rules work under your particular facts and circumstances may be a necessary interim step.
+Commissioner Peirce:
+Paul, you’re known for your good cheer even in the face of difficult circumstances. Any words of advice in closing for an audience that is in the throes of a challenging crypto market?
+Chairman Atkins:
+Put your nose to the grindstone and work to build things that matter. That is how you transform Schadenfreude to Freudenfreude – the sense of happiness we feel when others succeed. A little dark chocolate and Diet Coke might help too, but go easy on the Celsius and Zyn.
+Commissioner Peirce:
+Thank you, Paul.
+Last Reviewed or Updated:
+Feb. 19, 2026
+Return to top
+SEC homepage
+About the SEC
+Budget & Performance
+Careers
+Commission Votes
+Contact
+Contracts
+Transparency
+Accessibility & Disability
+Artificial Intelligence
+Cummings Notice
+FOIA
+Inspector General
+No FEAR Act Data
+Ombuds
+SEC Excess Personal Property Guidance
+Websites
+Investor.gov
+Related Sites
+USA.gov
+Site Information
+Plain Writing
+Privacy & Security
+Site Map
+Stay connected. Sign up for email updates.
+Your email address
+Sign Up
+X
+Facebook
+Instagram
+RSS
+YouTube
+Email Updates

@@ -1,0 +1,354 @@
+Title: Remarks at the Asset Management Derivatives Forum 2026: Treasuries and Tokenization
+Link: https://www.sec.gov/newsroom/speeches-statements/uyeda-remarks-asset-management-derivatives-forum-020926
+Published: Mon, 09 Feb 2026 12:09:21 -0500
+
+SEC.gov | Remarks at the Asset Management Derivatives Forum 2026: Treasuries and Tokenization
+Skip to search field
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+A locked padlock
+)
+              or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+SEC homepage
+Menu
+Close
+Search SEC.gov & EDGAR
+Search
+Search Filings
+Search Filings
+Full Text Search
+Latest Filings
+Mutual Fund Search
+Variable Insurance Products Search
+SIC Codes
+CIK Lookup
+Public Dissemination Service (PDS)
+Search Assistance
+Submit Filings
+Submit Filings
+EDGAR Filer Management Portal
+EDGAR Filing Portal
+Online Forms Management Portal
+EDGAR Next
+Forms Index
+Filer Support & Resources
+Data & Research
+Data & Research
+SEC & Markets Data
+Taxonomies
+Statistics & Data Visualizations
+Rules, Enforcement, & Compliance
+Rules & Regulations
+Rulemaking Activity
+Statutes & Regulations
+Staff Guidance
+No-Action, Interpretive, and Exemptive Letters
+Self-Regulatory Organization Rulemaking
+Public Petitions for Rulemaking
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+Compliance
+Examination Priorities
+Risk Alerts
+Compliance Outreach Program
+Proposed Rules
+What's New
+Whistleblower Program
+Featured Topics
+Featured Topics
+Crypto Task Force
+Cybersecurity
+Market Structure Analytics
+Saving and Investing for Military Personnel
+Saving and Investing for Teachers
+SEC-CFTC Harmonization Initiative
+Treasury Clearing Implementation
+About
+About
+Mission
+Commissioners
+Divisions & Offices
+Division & Office Directors
+Advisory Committees
+Budget & Performance
+Reports & Publications
+Commission Votes
+Contact the SEC
+Careers
+Submit a Tip or Complaint
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Search SEC.gov & EDGAR
+Search
+More in this Section
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Home
+Newsroom
+Speeches and Statements
+Remarks at the Asset Management Derivatives Forum 2026: Treasuries and Tokenization
+Speech
+Remarks at the Asset Management Derivatives Forum 2026: Treasuries and Tokenization
+Commissioner Mark T. Uyeda
+Austin, Texas
+Feb. 9, 2026
+Good morning and thank you, Lindsey [Keljo], for the introduction.
+[1]
+I appreciate the turnout—early on a Monday morning—the day after the Super Bowl. For those folks in this room, I know that you find topics like Treasury clearing and tokenizing the securities markets as important as slot formations and nickel coverages. Thus, my remarks will focus on the current status of the SEC’s efforts to implement the Treasury Clearing Rule
+[2]
+and facilitate tokenization of the securities markets.
+I. Treasury Clearing Update
+The U.S. Treasury market remains the cornerstone of global financial stability, supporting everything from mortgage pricing to corporate financing to central bank reserves. With nearly $29 trillion in marketable Treasury debt,
+[3]
+it is the deepest and most liquid capital market in the world. Its smooth functioning depends on the coordinated efforts of countless stakeholders—including market participants, clearing agencies, infrastructure providers, and other regulators.
+I first became involved in discussions regarding the potential mandatory clearing of Treasuries when I served on detail to the U.S. Department of the Treasury in 2017. Eventually, there would be widespread consensus with respect to the benefits of mandatory Treasury clearing. Using a central counterparty can improve transparency and reduce bilateral exposures. The ability to use netting for offsetting transactions can free up additional cash for market participants, which in turn can reduce liquidity strains. Accordingly, in December 2023, I voted with a majority of SEC Commissioners to adopt standards to mandate central clearing of Treasury securities for transactions in the cash and repo markets.
+Recent research by the Office of Financial Research (“OFR”) reemphasizes these benefits of central clearing in the Treasury repo market. In a back-testing analysis of repo and reverse repo positions reported by six global systemically important banks (“G-SIBs”) during the first eight months of 2025, OFR calculated that if the Treasury Clearing Rule had been in effect during this period, each U.S. G-SIB could have freed up an average of $34.5 billion in additional balance sheet space.
+[4]
+In its 2025 Annual Report released by the Trump Administration, the Financial Stability Oversight Council (“FSOC”) underscored the potential benefits of central clearing of Treasury transactions and expressed support for the SEC as it continues working towards the implementation of the Treasury Clearing Rule.
+[5]
+So, with that momentum, the SEC continues to undertake extensive outreach to mitigate any issues with the upcoming deadlines.
+A. Progress Made
+Despite the potential benefits of clearing Treasury transactions, I recognized at the time the SEC adopted the rule, that it would take extensive time, effort, and resources to develop the workflows and processes to integrate market participants into the clearing infrastructure. Given this significant work, it became apparent that the original implementation timeline was too short.
+For that reason, upon becoming SEC Acting Chairman, I pushed for a 12-month extension of those deadlines. I was pleased that both of my then-colleagues, Commissioners Hester Peirce and Caroline Crenshaw, unanimously agreed to the extension.
+[6]
+At the time, the February 2025 extension would provide market participants with 22 months to prepare for implementation with respect to cash transactions. Now, that implementation date is less than eleven months away. Thanks to efforts of many, including those who are in this room, we have been able to collectively identify a number of concerns, and the SEC is committed to promptly addressing them.
+Our efforts have been focused in three areas:
+First, reviewing applications and proposals aimed at expanding access to, and options for, clearing Treasury securities;
+Second, providing guidance on the scope of the Treasury Clearing Rule, including consideration for providing additional flexibility to ensure that market participants can access liquidity and manage collateral; and
+Third, maintaining a collaborative and transparent approach to implementation.
+I will address each of these in turn.
+B. Developments in Clearing
+New Clearing Agencies
+Until recently, there was only a single SEC-registered clearing agency for Treasury securities, the Fixed Income Clearing Corporation (“FICC”). In the last two months, however, the SEC has approved the applications of CME Securities Clearing Inc. and ICE Clear Credit LLC to register as clearing agencies for Treasury securities transactions.
+[7]
+These approvals will provide market participants the necessary certainty as to which entities can serve as clearing agencies for Treasury securities and what services they will offer.
+Obtaining SEC approval is not an easy process. Section 17A(b)(3) of the Securities Exchange Act of 1934 (“Exchange Act”) sets forth the requirements that an applicant must meet in order to register as a clearing agency.
+[8]
+These requirements include whether the entity is so organized and has the capacity to provide the functions of a clearing agency, whether its rules provide for the prompt and accurate clearance and settlement of securities transactions, and whether its rules assure a fair representation of its shareholders or members and participants in the selection of its directors and administration of its affairs. These requirements guide the Commission’s consideration of a clearing agency application, and the Commission must find that an applicant can meet these requirements. In the case of the two new clearing agencies, the Commission made those findings.
+[9]
+Now, with three clearing agencies approved for Treasury securities, market participants will have expanded options for accessing clearing to implement their obligations under the Treasury Clearing Rule. We encourage market participants, who may have questions about the operations of these clearing agencies in relation to their own regulatory obligations, to engage with the central counterparties. If needed, the SEC staff stands ready to be part of those discussions.
+Rule Changes in Clearing
+Besides reviewing applications from new market entrants, the SEC staff has also been reviewing proposals from FICC to support the Treasury Clearing Rule. On December 22, 2025, the Commission published notice of FICC’s proposed rule change to amend its cross-margining agreement with the Chicago Mercantile Exchange, Inc. (“CME”) to expand its existing cross-margining arrangement with CME to customers. Currently, the arrangement is limited to the proprietary positions of FICC and CME members.
+[10]
+Relatedly, the Commission is considering petitions submitted by FICC and CME for exemptive relief from certain provisions of the Exchange Act that would permit expanded cross-margining for customers.
+[11]
+Historically, the Commission has supported and approved cross-margining at clearing agencies and recognized the potential benefits of cross-margining systems. These benefits include freeing up capital through reduced margin requirements, reducing clearing costs by integrating clearing functions, reducing clearing agency risk by centralizing asset management, and harmonizing liquidation procedures. In addition, we understand that certain market participants view an expansion of cross-margining between cash and futures Treasury positions to be an important component of the transition to increased central clearing of Treasury securities. The current proposal from FICC and CME is still outstanding. The Commission must review and consider comments submitted by the public and take them into consideration as it determines whether to approve the proposed rule change.
+Additionally, the Commission acted this past December on two proposals from FICC that are aimed at expanding access to clearing ahead of the Treasury Clearing Rule compliance dates. Specifically, the Commission approved a proposed new offering from FICC to establish a “collateral-in-lieu” service as part of the existing sponsored general collateral service.
+[12]
+This service would allow FICC to take a lien on the collateral underlying a repo transaction in lieu of charging margin. In most instances, the lien will obviate FICC’s need to collect margin or to obtain a guarantee on the transactions. This service would address what market participants have referred to as “double margining” that increases the costs, and thereby decreases the ability, of a FICC sponsoring member to provide clearance and settlement services to mutual funds and other cash providers. Second, the Commission issued an order approving expansion of FICC’s agent clearing service to include triparty transactions, which should provide an additional option for market participants using that service.
+[13]
+C. Guidance on the Scope of the Treasury Clearing Rule
+The SEC has also been engaging with market participants about the scope of the Treasury Clearing Rule. SEC staff has provided guidance in some areas, such as mixed CUSIP triparty repos,
+[14]
+but has yet to resolve some other questions.
+Flexibility for Inter-Affiliate Transactions
+One area where market participants have asked for further regulatory clarity is the application of the Treasury Clearing Rule to inter-affiliate transactions.
+When the Commission proposed the Treasury Clearing Rule, the definition of an eligible secondary market transaction provided no exception for inter-affiliate transactions. Commenters, however, asserted that inter-affiliate transactions are important for corporate groups, which use them to achieve efficient risk and capital allocation and to obtain flexibility for addressing customer demands. Further, commenters noted that requiring inter-affiliate transactions to be centrally cleared would impose additional costs but have only limited benefits.
+[15]
+Thus, the final rule included an exemption for inter-affiliate transactions. The Commission recognized that inter-affiliate transactions represent an important tool to transfer liquidity and risk within an affiliated group. The Commission also recognized that, in certain circumstances, the counterparty credit risk posed by inter-affiliate transactions may be less than other transactions.
+[16]
+The inter-affiliate exemption provides that a direct participant of a central counterparty would not have to clear its inter-affiliate transactions if (i) the affiliate was under common control and was either a bank, broker-dealer or a futures commission merchant, and (ii) the direct participant also submitted for clearing the outward-facing transactions of that affiliate.
+[17]
+As the Adopting Release explained, “this [outward facing] condition” was intended to ensure that a direct participant could not rely upon an inter-affiliate transaction to avoid the requirement to clear eligible secondary market transactions. If there were no such condition, a direct participant could simply use inter-affiliate transactions to move securities and funds to affiliates, and the affiliated counterparty could then enter into external transactions with counterparties which, if entered into as a direct participant of a Treasury securities covered clearing agency, would be eligible secondary market transactions. Because the clearing requirement is conditioned on one of the parties being a direct participant, this would undermine the clearing requirement. Under the outward-facing condition, however, the transfer of Treasury securities between a direct participant and its non-direct participant affiliate would only be exempt from the clearing requirement if the non-direct participant affiliate cleared all of its other Treasury repo transactions.
+Because the final inter-affiliate exemption had not been exposed to public review, market participants raised a number of concerns, including with respect to the types of entities that can be affiliates for purposes of the exemption and the requirement to clear the outward-facing transactions of the affiliate. SEC staff has been working with market participants to better understand these concerns and how they can be addressed.
+Specifically, SEC staff have been considering whether broadening the contours of that exemption could be workable without creating a significant loophole that undermines the purposes of the rule. For example, could the provision that the affiliate be a bank, broker-dealer, or futures commission merchant be modified to allow for more types of entities as affiliates? SEC staff are also considering other potential relief for the inter-affiliate exemption so that market participants can maintain their current business practices for liquidity, treasury, and collateral management. The Commission has received productive feedback from market participants on the inter-affiliate exemption, and my hope is that any potential modifications can be publicly rolled out in the near future, since the compliance date is fast approaching.
+Extra-Territorial Reach
+The extraterritorial scope of the Treasury Clearing Rule is another area where the SEC staff have engaged in additional outreach efforts. Non-U.S. firms that trade with U.S. counterparties do not typically centrally clear their trades in Treasury securities. Accordingly, it is not surprising that an industry survey on U.S. Treasury central clearing readiness, released last fall, showed lower levels of understanding of the Treasury Clearing Rule amongst non-U.S. firms and lower levels of confidence that these firms would be ready to fulfill their obligations by the extended compliance dates.
+[18]
+The SEC is aware that these firms may have larger burdens than U.S. firms in establishing clearing arrangements with intermediaries or central counterparties.
+[19]
+SEC staff have been engaging with market participants to understand the jurisdictional issues, and I hope we can address such concerns in the near future.
+D. Maintaining a Transparent and Collaborative Approach
+There are other areas where implementing the Treasury Clearing Rule has raised questions for market participants about how they should comply with other existing requirements under the federal securities laws.
+[20]
+We acknowledge the need for guidance and SEC staff continue to engage with market participants on these questions.
+To maximize transparency regarding the SEC’s efforts, we have provided periodic public updates and maintain a comprehensive list of actions taken on a dedicated
+Treasury Clearing implementation webpage
+on sec.gov.
+[21]
+Materials posted to this dedicated website also are intended to keep market participants informed about the additional work that is underway. Thus, if you see no mention of a particular concern on that website, then it is highly likely that we are not actively working on it—so we strongly encourage firms to identify and raise any remaining challenges or unforeseen issues as we move towards full implementation.
+The Commission continues its collaboration with the U.S. Department of the Treasury, the Federal Reserve Board, the CFTC, and international regulators to ensure seamless cross-border implementation. It is in all of our interests to see that the U.S. Treasury securities market remains the deepest, most liquid, and most resilient market in the world.
+II. Why Tokenization Matters and Where We Stand
+One of the other issues that the Commission is taking a close look at is tokenization, a development that could change the way securities are issued, traded, and managed. It also raises important questions about liquidity, collateral practices, and clearing models, as well as the legal and regulatory frameworks needed to support these changes.
+Technology has long shaped the way our markets operate—from paper certificates to dematerialized shares, from physical trading floors to electronic order books. Today, we consider the possibility of migrating securities positions from traditional databases to blockchain-based systems, and tokenization representing these rights and obligations on-chain.
+Properly implemented, tokenization can enhance security, transparency, and immutability by encoding rights on digital tokens and recording their provenance on distributed ledgers. It can reduce reliance on intermediaries, streamline transaction lifecycles, and lower operational costs—without sacrificing safeguards that have long protected investors.
+Potential technological shifts challenge us to translate existing laws and regulations into new contexts. Today, many of the SEC’s rules assume multi-layered intermediation. However, tokenization offers a pathway to more direct issuer–investor interactions on open, programmable rails. Market demand and confidence should drive whether tokenization becomes reality, and the SEC’s rulebook should not impose unnecessary roadblocks.
+A. Innovation with Guardrails
+In that sense, SEC rules should be technology-neutral and be focused on outcomes, not solely processes. Tokenized versions of securities remain subject to securities regulation; the shift does not change the legal and regulatory obligations. The challenge is to adapt the rules—on issuance, custody, and trading to name a few—so that those obligations can be met in on-chain environments.
+To date, SEC efforts in engagement have been through roundtables, staff statements, and public comment files. Under the Trump Administration, the SEC has ceased using enforcement as the principal method for expressing Commission views on these new technological developments. In that sense, the SEC has returned to its normal approach of providing sub-regulatory guidance and exploring exemptive relief to allow limited-scope pilots to proceed under defined parameters, thereby informing potential future Commission action. This is the same tried-and-true process that gave rise to money market funds and exchange-traded funds in the past.
+Tokenization can help modernize capital markets, not only by speeding up the settlement cycle but by making ownership more visible—addressing current challenges in shareholder identification and corporate actions. Visibility and speed are not merely aesthetic improvements; they are core to fair, orderly, and efficient markets, and the Commission should be continually thinking about how these new developments can be incorporated into the markets.
+B. Looking Ahead: Opportunities and Responsibilities
+Recently, the Commission provided public notice of an exemptive application under the Investment Company Act that demonstrates how tokenization is no longer a theoretical exercise, but is becoming a practical reality.
+[22]
+This milestone reflects the Commission’s commitment to innovation without abandoning appropriate guardrails such as ensuring that custody, disclosure, and investor protection standards are in place when assets migrate on-chain. It also exemplifies a pragmatic roadmap—beginning with scoped efforts, learning from the results, and potentially scaling what works.
+By moving forward with such applications, the Commission signals that it is open to modernization, provided that it adheres to achieving the objectives of longstanding laws and regulations that govern the securities markets. I hope that these exemptive order applications are not endpoints, but rather waypoints on a journey toward markets that are more fair, orderly, and efficient due to new innovations.
+C. First Principles, Enduring Mission
+Expectations vary: some predict rapid transformation while others caution that adoption might take years. The Commission’s responsibility is to ensure that its regulations evolve as technology evolves—for the very same reason that the SEC cannot regulate in 2026 in the same manner as in 1934, when the agency was created.
+The SEC’s goal should be neither to bless every new innovation nor to resist change reflexively. Rather, it is to use its regulatory tools—including definitional authority and exemptive relief—so that the administration of the federal securities laws can evolve to address new technologies and innovation. Part of this responsibility includes providing transparency as to what is permitted, what requires prior authorization, and what is prohibited.
+If financial regulators can carry out this process in an appropriate manner, capital markets will be able to operate in ways that reduce friction, improve price discovery, and serve investors better than ever before. Ultimately, that is the real objective of financial regulation.
+Looking ahead, both Treasury clearing and tokenization serve as reminders that modernization is not an abstract goal—it is a practical necessity for resilient, transparent, and efficient markets. These initiatives demand continued engagement with market participants, robust consideration of benefits and costs, thoughtful evaluation of trade-offs among alternative approaches, and a respect for the legal authority governing the SEC’s activities, including the procedural obligations required by the Administrative Procedure Act. These efforts are not simple and may take time, but they are essential. By approaching these changes methodically, the Commission can strengthen market infrastructure, promote responsible innovation, and ensure that America’s capital markets continue to serve investors and the broader economy.
+Thank you.
+[1]
+My remarks reflect my individual views as an individual Commissioner and do not necessarily reflect the views of the U.S. Securities and Exchange Commission (“SEC” or the “Commission”) or my fellow Commissioners.
+[2]
+The Commission has mandated that covered clearing agencies require their direct participants to clear certain eligible secondary market transactions in U.S. Treasury securities.
+See
+Standards for Covered Clearing Agencies for U.S. Treasury Securities and Application of the Broker-Dealer Customer Protection Rule with Respect to U.S. Treasury Securities, Exchange Act Release No. 34-99149 (Dec. 13, 2023), 89 FR 2714 (Jan. 16, 2024) (hereinafter, “Treasury Clearing Rule”).
+[3]
+Federal Reserve Bank of St. Louis, Market Value of Marketable Treasury Debt as of December 2025, available at
+https://fred.stlouisfed.org/series/MVMTD027MNFRBDAL
+.
+[4]
+Office of Financial Research, “How Will Central Clearing Impact the Repo Market?” (Jan. 29, 2026), available at
+https://www.financialresearch.gov/the-ofr-blog/2026/01/29/central-clearing-impact-repo-market/
+.
+[5]
+Financial Stability Oversight Council, Financial Stability Oversight Council 2025 Annual Report (Dec. 11, 2025), available at
+https://home.treasury.gov/system/files/261/FSOC2025AnnualReport.pdf
+.
+[6]
+Extension of Compliance Dates for Standards for Covered Clearing Agencies for U.S. Treasury Securities and Application of the Broker-Dealer Customer Protection Rule With Respect to U.S. Treasury Securities, Exchange Act Release No. 34-102487 (Feb. 25, 2025), 90 FR 11134 (Mar. 4, 2025).
+[7]
+CME Securities Clearing, Inc.; Order Granting an Application for Registration as a Clearing Agency under Section 17A of the Securities Exchange Act of 1934, Exchange Act Release No. 34-104281 (Dec. 1, 2025), available at
+https://www.sec.gov/files/rules/other/2025/34-104281.pdf
+; ICE Clear Credit LLC; Order Granting an Application for Registration as a Clearing Agency under Section 17A of the Securities Exchange Act of 1934, Exchange Act Release No. 34-104762 (Jan. 30, 2026), available at
+https://www.sec.gov/files/rules/other/2026/34-104762.pdf
+.
+[8]
+15 U.S.C. 78q-1(b)(3).
+[9]
+See
+supra
+note 7.
+[10]
+Exchange Act Release No. 34-104485 (Dec. 22, 2025), available at
+https://www.sec.gov/files/rules/sro/ficc/2025/34-104485.pdf
+. FICC also filed a related advance notice, consistent with its obligations as a systemically important financial market utility under Title VIII of the Dodd-Frank Act.
+See
+Exchange Act Release No. 34-104486, available at
+https://www.sec.gov/files/rules/sro/ficc/2025/34-104486.pdf
+.
+[11]
+FICC and CME have also submitted petitions to the Commodity Futures Trading Commission (“CFTC”) for exemptive relief from certain provisions of the Commodity Exchange Act.
+See
+Exchange Act Release No. 34-104748, available at
+https://www.sec.gov/files/rules/other/2026/34-104748.pdf
+;
+see also
+CFTC, Press Release, Acting Chairman Pham Announces Implementation of U.S. Treasury Market Reforms: Proposed Order Would Expand CME-FICC Cross-Margining Program to Customers (Dec. 12, 2025), available at
+https://www.cftc.gov/PressRoom/PressReleases/9155-25.
+[12]
+See
+Exchange Act Release No. 34-104374 (Dec. 12, 2025), available at
+https://www.sec.gov/files/rules/sro/ficc/2025/34-104374.pdf
+.
+[13]
+See
+Exchange Act Release No. 34-104492 (Dec. 22, 2025), available at
+https://www.sec.gov/files/rules/sro/ficc/2025/34-104492.pdf
+.
+[14]
+For example, the Division of Trading and Markets, last fall, issued answers to Frequently Asked Questions regarding the applicability of the Treasury Clearing Rule to certain general collateral triparty repos, which are also referred to as mixed CUSIP triparty repos. The staff expressed the view that, under the circumstances described in the FAQ, such a transaction would not be a transaction that must be cleared under the Treasury Clearing Rule.
+See
+Division of Trading and Markets: Frequently Asked Questions – Treasury Clearing Rule (updated as of Dec. 8, 2025), available at
+https://www.sec.gov/rules-regulations/staff-guidance/trading-markets-frequently-asked-questions/frequently-asked-questions-treasury-clearing-093025
+.
+[15]
+See, e.g.
+, Letter from Robert Toomey, Managing Director and Associate General Counsel, Securities Industry and Financial Markets Association, and Michelle Meertens, Deputy General Counsel, Institute of International Bankers, at 21-22 (Dec. 22, 2022) available at
+https://www.sec.gov/comments/s7-23-22/s72322-20153420-320842.pdf
+.
+[16]
+Treasury Clearing Rule, 89 FR 2737.
+[17]
+17 CFR 240.17ad-22(a) (definition of “eligible secondary market transaction”).
+[18]
+See
+Press Release, U.S. Treasury Central Clearing Survey: U.S. Firms Have High Degree of Confidence in Readiness While Europe and Asia Lag; Regulatory Clarity is a Key Factor (Nov. 10, 2025), available at
+https://www.sifma.org/resources/news/press-releases/u-s-treasury-central-clearing-survey-u-s-firms-have-high-degree-of-confidence-in-readiness-while-europe-and-asia-lag-regulatory-clarity-is-a-key-factor/
+.
+[19]
+See id.
+[20]
+For example, with respect to the Customer Protection Rule, Exchange Act Rule 15c3-3, we have received questions from market participants regarding the potential ability of broker-dealers to reflect a reserve formula debit in instances where customer margin for U.S. Treasury transactions is delivered to a qualified covered clearing agency on a net basis, rather than gross basis as required under the current rule. We have also received questions concerning how the Treasury Clearing Rule applies in the event of the unavailability of a central counterparty or a failed trade, as well as what it means to be “of a type accepted for clearing” as that language is used in the rule’s definition of an eligible secondary market transaction.
+[21]
+See
+Treasury Clearing Implementation, U.S. Securities and Exchange Commission (updated as of Feb. 2, 2026), available at
+https://www.sec.gov/featured-topics/treasury-clearing-implementation
+.
+[22]
+91 FR 3757 (Jan. 28, 2026).
+Last Reviewed or Updated:
+Feb. 9, 2026
+Return to top
+SEC homepage
+About the SEC
+Budget & Performance
+Careers
+Commission Votes
+Contact
+Contracts
+Transparency
+Accessibility & Disability
+Artificial Intelligence
+Cummings Notice
+FOIA
+Inspector General
+No FEAR Act Data
+Ombuds
+SEC Excess Personal Property Guidance
+Websites
+Investor.gov
+Related Sites
+USA.gov
+Site Information
+Plain Writing
+Privacy & Security
+Site Map
+Stay connected. Sign up for email updates.
+Your email address
+Sign Up
+X
+Facebook
+Instagram
+RSS
+YouTube
+Email Updates

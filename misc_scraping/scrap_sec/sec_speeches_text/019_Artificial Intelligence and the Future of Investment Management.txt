@@ -1,0 +1,253 @@
+Title: Artificial Intelligence and the Future of Investment Management
+Link: https://www.sec.gov/newsroom/speeches-statements/daly-020326-artificial-intelligence-future-investment-management
+Published: Tue, 03 Feb 2026 09:56:29 -0500
+
+SEC.gov | Artificial Intelligence and the Future of Investment Management
+Skip to search field
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+A locked padlock
+)
+              or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+SEC homepage
+Menu
+Close
+Search SEC.gov & EDGAR
+Search
+Search Filings
+Search Filings
+Full Text Search
+Latest Filings
+Mutual Fund Search
+Variable Insurance Products Search
+SIC Codes
+CIK Lookup
+Public Dissemination Service (PDS)
+Search Assistance
+Submit Filings
+Submit Filings
+EDGAR Filer Management Portal
+EDGAR Filing Portal
+Online Forms Management Portal
+EDGAR Next
+Forms Index
+Filer Support & Resources
+Data & Research
+Data & Research
+SEC & Markets Data
+Taxonomies
+Statistics & Data Visualizations
+Rules, Enforcement, & Compliance
+Rules & Regulations
+Rulemaking Activity
+Statutes & Regulations
+Staff Guidance
+No-Action, Interpretive, and Exemptive Letters
+Self-Regulatory Organization Rulemaking
+Public Petitions for Rulemaking
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+Compliance
+Examination Priorities
+Risk Alerts
+Compliance Outreach Program
+Proposed Rules
+What's New
+Whistleblower Program
+Featured Topics
+Featured Topics
+Crypto Task Force
+Cybersecurity
+Market Structure Analytics
+Saving and Investing for Military Personnel
+Saving and Investing for Teachers
+SEC-CFTC Harmonization Initiative
+Treasury Clearing Implementation
+About
+About
+Mission
+Commissioners
+Divisions & Offices
+Division & Office Directors
+Advisory Committees
+Budget & Performance
+Reports & Publications
+Commission Votes
+Contact the SEC
+Careers
+Submit a Tip or Complaint
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Search SEC.gov & EDGAR
+Search
+More in this Section
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Home
+Newsroom
+Speeches and Statements
+Artificial Intelligence and the Future of Investment Management
+Speech
+Artificial Intelligence and the Future of Investment Management
+Brian Daly,
+Director, Division of Investment Management
+Investment Company Institute (ICI) Winter Board Meeting
+Manalapan, Fla. (delivered virtually)
+Feb. 3, 2026
+Good morning, everyone. I am pleased to join you this morning, although, I must say I am jealous of the Florida weather you are all enjoying. Here in DC it is still well below freezing.
+Before I begin, I must inform – or remind – you that these remarks are provided in my official capacity as the Securities and Exchange Commission’s Director of the Division of Investment Management, but do not necessarily reflect the views of the Commission, the Commissioners, or other members of the staff.
+I would like to talk a bit today about how we in the Division of Investment Management are looking at the tremendous changes – and opportunities – that artificial intelligence affords both you, as key personnel at investment advisers and investment companies, as well as the ultimate investors – who often are individual retail investors – who purchase your investment products and advisory services.
+If time permits, I can also share how I see the Division – as your friendly neighborhood regulator – fitting into that new worldview.
+Ready?
+Now, when we talk about “technology” issues, there is often a tendency to focus, as lawyers, on how very specific technological developments will be addressed under the securities laws.
+For example:
+Does web posting constitute an adequate mechanism for furnishing information to investors?
+Are e-mails “correspondence” for regulatory purposes?
+Will storage of records in electronic form satisfy record retention rules?
+Resolution of these issues in a timely and sensible fashion is quite important to the effective operation of the securities laws and the financial markets.
+If you think my introductory scoping passage was insightful and current, you're right.  And wrong.
+In fact, that entire passage was an excerpt from a speech by the late Giovanni Prezioso, in one of his last speeches as General Counsel of the Securities and Exchange Commission.
+In 2005.
+I began with that passage because it shows that we, both industry and regulators, have not made all that much progress on the three core issues Giovanni mused about twenty years ago:
+Although we are focused on this topic, we have not, to date, formally proposed a comprehensive “e-Delivery” rule;
+Confusion over what electronic communications fall within the Books and Records Rule (or other retention requirements) remains a live topic; and
+The Books and Records Rule is still reflective of an age when advisers typed client letters that were snail-mailed (back then, we just called it “mail”).
+Just to underscore how much time has gone by, in that speech Giovanni shared a story on how he watched his two pre-teen daughters vote by phone for the winner of an “American Idol” episode.  Marveling at the use of 2005 technology, he wondered why large public companies could not have instantaneous shareholder votes.
+By the way, those two girls, both accomplished lawyers, have kids of their own.
+In other words, we are literally looking at a lost generation of limited progress.
+Let’s turn lemons into lemonade.
+But - instead - let’s look at this need to modernize as a generational
+opportunity.
+AI and the Investment Process.
+Today’s cutting edge technology centers on artificial intelligence.  We can debate whether generative AI will win out against Yann LeCun's "world models,” but the point is that AI is here.
+And intelligent use of artificial intelligence can, should, and will catalyze a transformation of the technology of investment management.
+The fact that AI can improve the investment management process is not news.  Many of you are already utilizing AI, but the feedback from numerous industry surveys, from our direct outreach, and from our partners in the Examinations Division is that adoption is still uneven and often tentative.
+We hear that the greatest impediment to a more widespread adoption of AI is liability concerns.  Many advisers are afraid that using AI creates exposure if (when) there are losses.  And I recognize that some of that concern results from SEC examination and enforcement efforts that have accompanied prior waves of technological advancement.
+But liability concerns should not be insurmountable obstacles.  We have dealt with technologically-driven shifts in the past.  For example, the advent of algorithmic and quantitative models caused much concern, but after a period of adjustment, the industry settled into a rough equilibrium marked by commonly-used disclosures and accepted compliance practices.
+I do recognize that AI is different. With quantitative strategies, a key safeguard was making sure that there was a human “in the loop” to pull the plug, in real time, if the models began misbehaving.  But AI is different – the goal of AI is to take the human out of loop.  At least out of the real-time response loop.  There will still be humans involved, to be sure, but if we are being honest – they are going to be a more remote and supervisory role.
+That will present new challenges. No doubt. But these are challenges that need to be addressed, in part because your competitors will incessantly force each of you to deploy more AI in your investment function.
+So where does the Division of Investment Management fit into this?  Well, we could issue a bunch of rules and guidance on what your fiduciary duties require you to do.  But that will take some time and, by the time they take effect, the market and the technology may have moved on, rendering them irrelevant.  (“WORM retention standards, anyone?”)
+Or … we could listen to you.
+To the extent that you have concerns about how our existing laws, rules and regulations constrain your deployment of new technologies, please reach out.  You have heard our Chairman refer to the SEC as “The Innovation Commission.” Given that, you should assume that inbound emails that say something like “I have a novel approach that is good for investors…” will grab our attention.
+So this is a request for engagement.  We want to work with advisers, investment companies, and other market participants to enable new technologies to come online, and to work with you on understanding how the industry can do that and still retain traditional investor protections.
+LLMs and Investor Disclosures
+One topic that comes up time and again is:
+When will the Commission act to modernize fund document delivery?
+Now, I’m not at liberty to comment on initiatives unless they have been published in a RegFlex agenda.  But I do want to reflect on the nature of the requests we are receiving.
+At their core, the “E-” requests center around making electronic delivery the default mechanism for delivering prospectuses and other fund documents.  And “electronic delivery” generally is conceived as sending PDFs by email to end retail investors.
+And while that could and would be an important step for many in the industry, I’d like to offer a broader perspective.
+Because what we’re really talking about here is using
+1990s technology
+—email and PDFs—to deliver disclosures to investors in
+2026
+. That’s not innovation. That’s just digitizing paper.
+So I’d like to pose a question:
+What should the next step in our digital journey look like?
+From my perspective, this is the right time, with the right leadership in the White House and at the SEC, to think boldly. And to the extent that market participants are ready to innovate and push the envelope, we want to hear from you.
+When I shared some of these thoughts with Commissioner Peirce during my pre-hire interview, her response stuck with me. She said something to the effect of:
+“Innovation is rare in this space because we’ve either prohibited it or strangled it with regulation.”
+There’s a lot of truth in that.
+At the same time, history shows that when unelected bureaucrats—like myself—try to use the regulatory pen to drive technology forward, the results are mixed at best. The greatest innovations come from the market itself.
+So let me offer this idea—not as a mandate, not as guidance, and certainly not as investment advice—but as a
+conversation starter
+:
+What if we reimagined disclosure using
+large language models
+?
+Think about it: Today, a direct-sold mutual fund adviser communicates with retail investors through a massive prospectus, filled with risk factors, financials, biographical data, and investment process descriptions. That’s just the beginning. There’s also the prospectus supplement, the SAI, periodic reports, and financial statements—an entire library of information, often written by teams of in-house and external lawyers, and housed in different locations.
+Now, imagine the retail investor interacting, not with a 200-page document, but with a
+fund- or adviser-provided AI agent
+An autonomous AI agent can be trained on the library of fund documents and then answer - in plain English – questions like:
+What do you invest in?
+What fees will I pay?
+How do I redeem my shares?
+Do you hold short positions? And what is a short position, anyway?
+Do you have conflicts of interest?
+What benchmarks do you think are useful performance comparisons?  Can you generate some comparison charts?
+This kind of tool could be a
+tremendous bridge
+between investors and the disclosures that all too often are misunderstood or – even worse – go unread.
+Yes, there are liability questions. But there are also liability questions for the AI systems used by surgeons, law firms, and logistics firms moving critical goods around the world. These are not insurmountable challenges.
+Yes, there are also regulatory questions: Would the model be considered marketing? Would it require registration as an investment adviser? How would we supervise it?
+These are real questions. But they’re also solvable ones—with thoughtful legal analysis, regulatory guidance, and, most importantly,
+collaboration
+.
+So I invite you—if you have ideas, if you want to explore a pilot program, if you would like to request a no-action letter or staff guidance—
+come talk to us
+. We can’t promise every idea will make it to market. But we can promise that every idea will be
+heard
+.
+Last Reviewed or Updated:
+Feb. 5, 2026
+Return to top
+SEC homepage
+About the SEC
+Budget & Performance
+Careers
+Commission Votes
+Contact
+Contracts
+Transparency
+Accessibility & Disability
+Artificial Intelligence
+Cummings Notice
+FOIA
+Inspector General
+No FEAR Act Data
+Ombuds
+SEC Excess Personal Property Guidance
+Websites
+Investor.gov
+Related Sites
+USA.gov
+Site Information
+Plain Writing
+Privacy & Security
+Site Map
+Stay connected. Sign up for email updates.
+Your email address
+Sign Up
+X
+Facebook
+Instagram
+RSS
+YouTube
+Email Updates

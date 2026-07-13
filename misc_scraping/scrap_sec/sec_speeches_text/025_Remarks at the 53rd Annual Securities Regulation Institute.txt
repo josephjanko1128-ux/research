@@ -1,0 +1,338 @@
+Title: Remarks at the 53rd Annual Securities Regulation Institute
+Link: https://www.sec.gov/newsroom/speeches-statements/uyeda-remarks-securities-regulation-institute-012626
+Published: Mon, 26 Jan 2026 13:17:22 -0500
+
+SEC.gov | Remarks at the 53rd Annual Securities Regulation Institute
+Skip to search field
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+A locked padlock
+)
+              or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+SEC homepage
+Menu
+Close
+Search SEC.gov & EDGAR
+Search
+Search Filings
+Search Filings
+Full Text Search
+Latest Filings
+Mutual Fund Search
+Variable Insurance Products Search
+SIC Codes
+CIK Lookup
+Public Dissemination Service (PDS)
+Search Assistance
+Submit Filings
+Submit Filings
+EDGAR Filer Management Portal
+EDGAR Filing Portal
+Online Forms Management Portal
+EDGAR Next
+Forms Index
+Filer Support & Resources
+Data & Research
+Data & Research
+SEC & Markets Data
+Taxonomies
+Statistics & Data Visualizations
+Rules, Enforcement, & Compliance
+Rules & Regulations
+Rulemaking Activity
+Statutes & Regulations
+Staff Guidance
+No-Action, Interpretive, and Exemptive Letters
+Self-Regulatory Organization Rulemaking
+Public Petitions for Rulemaking
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+Compliance
+Examination Priorities
+Risk Alerts
+Compliance Outreach Program
+Proposed Rules
+What's New
+Whistleblower Program
+Featured Topics
+Featured Topics
+Crypto Task Force
+Cybersecurity
+Market Structure Analytics
+Saving and Investing for Military Personnel
+Saving and Investing for Teachers
+SEC-CFTC Harmonization Initiative
+Treasury Clearing Implementation
+About
+About
+Mission
+Commissioners
+Divisions & Offices
+Division & Office Directors
+Advisory Committees
+Budget & Performance
+Reports & Publications
+Commission Votes
+Contact the SEC
+Careers
+Submit a Tip or Complaint
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Search SEC.gov & EDGAR
+Search
+More in this Section
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Home
+Newsroom
+Speeches and Statements
+Remarks at the 53rd Annual Securities Regulation Institute
+Speech
+Remarks at the 53rd Annual Securities Regulation Institute
+Commissioner Mark T. Uyeda
+Coronado, CA
+Jan. 26, 2026
+Enhancing the Public Company Disclosure Framework
+Thank you, Dave [Lynn], for that kind introduction.
+[1]
+I appreciate the opportunity to deliver the Alan B. Levenson Keynote Address, named in honor of the former director of the Division of Corporation Finance
+(Corp Fin)
+. Alan started his service at the Commission during the tenure of Chairman Edward “Ned” Gadsby, who was appointed by President Eisenhower.
+[2]
+During his service, the Commission and its staff operated in a very different manner. It is hard to imagine a Corp Fin staff member today questioning a notorious figure such as former Teamsters president Jimmy Hoffa in a public hearing—but that is what Alan was able to do.
+For lawyers involved in capital markets transactions, the annual Securities Regulation Institute organized by the Northwestern School of Law has become an important gathering. For those of us at the SEC, it represents an opportunity to engage with experienced securities law practitioners who can provide valuable feedback needed to develop sound regulatory policies. This is especially true as we revisit our rulebook to promote its effectiveness and reduce compliance burdens where regulatory obligations do not provide commensurate benefits for investors or our markets.
+The obligation to weigh burdens versus benefits is not a personal preference or philosophy of mine. In fact, it is a legislative mandate. Congress tasked the SEC with this exact objective when it passed the National Securities Markets Improvement Act of 1996 (NSMIA).
+[3]
+NSMIA directs the Commission to consider whether an action will promote capital formation “whenever we are required to consider the impact of an action upon investor protection pursuant to a rulemaking function.”
+[4]
+It is unfortunate that the prior administration downplayed this directive, given the many misguided rulemakings that were proposed and adopted during that period.
+1981: The U.S. and The SEC at a Crossroads
+Efforts to improve capital formation are not new. After all, capital formation drives economic growth, jobs creation, and innovation. The Commission faced a similar task nearly forty-five years ago. Shortly after President Ronald Reagan’s inauguration, the SEC sought to increase capital formation efforts to counter the stagflation and economic malaise of the late 1970s.
+At the time, Chairman John Shad wrote to James A. Baker, the Chief of Staff to President Reagan, that: “[m]ounting regulatory burdens, rising inflation, corporate and individual taxes, inadequate depreciation allowances, double taxation of dividends, up to 70% taxes on interest and dividends, and one of the highest effective rates of capital gains taxation in the industrialized free world, have been emphatic disincentives to save.”
+[5]
+In response to these challenges, the Commission “embarked on a major internal program to facilitate capital formation by simplifying the processes of raising capital in … public markets; by reducing excessive corporate registration, reporting and other regulatory burdens; and by maintaining public confidence in [the] securities markets through effective oversight, disclosure and antifraud enforcement.”
+[6]
+These efforts contributed to the resurgence of growth and prosperity—and the rectifying of capital market, monetary, economic and fiscal policy—in the 1980s and beyond.
+Today, we are pursuing a substantially similar journey. The Commission is considering how it can further enhance America’s capital markets—both qualitatively and quantitively. We cannot take for granted that our capital markets will remain the most attractive, the deepest, and the most liquid in the world. Complacency invites decline.
+We seek to focus our corporate disclosure rulebook squarely on maintaining the quality and reliability of material information. There are a number of areas where we can potentially enhance our public company disclosure framework that will further empower investment choice, price discovery, and investor protection.
+Merit or Prudential Regulators We Are Not
+Before I discuss potential reforms to the Commission’s disclosure regime, let’s remember that there are limits imposed by statute. We are not merit regulators. We do not “approve” offerings.
+[7]
+When reviewing registration statements, the staffs of the Divisions of Corporation Finance and Investment Management do not express a view on whether the offering is qualitatively “good” or “bad”—or express any similar judgement as to whether the offering is fair to investors or represents a sound investment decision. The SEC does not—and should not—substitute its judgment for that of investors or market intermediaries. Our framework, as described by renowned lawyer, judge, and early architect of the SEC, Ferdinand Pecora, is simple: “[t]o see it that those who issue securities and offer them for sale to the public, shall first tell the truth and the whole truth to the public with respect to these securities.”
+[8]
+There are significant downsides to a system where government regulators make the decision as to whether an investment is appropriate for investors—instead of allowing them to access opportunities that they deem optimal for their own portfolios. In 1980, the Commonwealth of Massachusetts barred the sale of Apple Computer stock as too risky.
+[9]
+The basis for denying the application was a regulatory provision, which stipulated that the price per share could not exceed 20 times earnings, while at the time, Apple was offered at 90 times earnings.
+[10]
+This decision resulted in Massachusetts investors initially missing out on holding stock in a company that would go on to become one of the most valuable in the technology sector.
+State blue sky laws, with merit review provisions, existed prior to the enactment of the federal securities law. However, Congress wisely chose a disclosure-based approach to regulation. Thus, the Commission is not charged with administering the Securities Act of 1933 and Securities Exchange Act of 1934 through a merit-review approach.
+Nor is the Commission a prudential regulator or central economic planner charged with evaluating whether the economy or markets are overheated. The Commission is not responsible for deciding if the financial markets are irrationally exuberant.
+[11]
+This is not to suggest that we should not be vigilant in terms of observing market trends and concerns. Rather, the Commission should be focused on the quality of financial reporting, the emergence of fraudulent schemes, and market manipulation. Simply put: our mandate is rooted in disclosure rather than subjective qualitative assessments.
+We are not supposed to act as “chaperones,” guiding investors to outcomes we think are more prudent. Rather, our primary focus should be on enhancing the quality of the disclosure framework and minimizing the likelihood that offerings have undisclosed material characteristics that would impact pricing.
+Strengthening Public Company Disclosure Frameworks
+Regulation S-K
+[12]
+is a key pillar of our public company disclosure framework. Many attorneys have spent long hours digesting paragraphs, subparagraphs, and romanettes of Regulation S-K. They have also spent countless hours discerning instructions, guidance, and staff comment letters with respect to the S-K items—aiming to seek clarification of the corresponding provisions—and their clients, by and large, have footed this bill. Some of the Regulation S-K instructions are as complex and lengthy as their corresponding disclosure item. Further complicating matters, in some instances, subparagraphs of Regulation S-K get their own instructions that are also lengthy. For example, the instruction to subparagraph (a) of Item 404 has over thirty discrete paragraphs or subparagraphs!
+[13]
+As lawyers, we understand the need for precision. However, we should also aim to simplify and streamline our rules where possible. In this spirit, Chairman Paul Atkins has instructed the Division of Corporation Finance to engage in a comprehensive review of Regulation S-K.
+[14]
+I strongly support these efforts.
+There are areas for improvement. For example, with regard to insider trading arrangements and policies under Item 408,
+[15]
+we could consider deleting the requirement in subparagraph (b) that mandates companies explain whether they have an insider trading policy or provide reasons if they do not. This would not change any underlying federal securities law obligations or liability thereunder, but would simplify disclosures.
+Similarly, with regard to transactions with related persons under Item 404,
+[16]
+we could consider adjusting the de minimis threshold of $120,000 to a higher amount, which might better align the requirement with materiality considerations. Or we could consider replacing a static number with a more principles-based approach to materiality that has worked well in other contexts. Additionally, the narrative description of company policies under subparagraph (b) could be replaced with a requirement for companies to file their policies or make them readily available on their websites. This would maintain transparency while streamlining SEC filings.
+In the cybersecurity area, we should re-consider our approach to the current mandated disclosures. We should consider whether Item 106
+[17]
+could be streamlined to simplify the narrative disclosures of cybersecurity policies and governance oversight. Our disclosure rules should generally not be the driver for what a company does or does not, but disclosure requirements such as these and others are likely shaming or indirectly compelling companies to change practices rather than eliciting material disclosure as to what the company is doing.
+There are similar areas for potential improvement in Item 701 and disclosure of unregistered transactions.
+[18]
+We could evaluate whether the corresponding Form 10-K item, requiring a 3-year look-back for unregistered sales of securities by the registrant, could be eliminated or otherwise modified.
+Simplifications could also be made to Item 201 for disclosures of the number of security holders and performance graphs. Perhaps we could delete the five-year graph of the issuer’s total cumulative return compared to a broad index and a line-of-business or peer group index under subparagraph (e). Given the wide availability of evaluative tools on the internet and mobile devices, do investors continue to need such disclosure?
+And although not squarely within the scope of Regulation S-K, I would be remiss if I did not mention disclosure related to mine safety in Form 10-Q.
+[19]
+Surely, we can include such disclosure elsewhere than in a recurring quarterly filing—the most logical place would likely be in Form 8-K or Form SD. One important consideration is that each of these requirements feeds into evaluations under an issuer’s disclosure controls and procedures (“DCPs”), adding one more step in terms of identifying whether any transactions or events are reportable.
+These are a few examples where we may be able to improve disclosure requirements to ensure they are relevant and efficient in the current regulatory environment. In the aggregate such revisions may reduce compliance burdens, improve our regulatory roadmap and—hopefully, minimize late nights spent by lawyers at public companies having nothing to do with mining but nonetheless wondering if they need DCPs for mine safety incidents.
+By making these adjustments, we would contribute to a more effective disclosure regulatory regime.
+Promoting a Scaled Disclosure Rulebook
+In our efforts to enhance the quality and effectiveness of the SEC rulebook, we should also consider whether it is appropriately tailored and avoids a one-size-fits-all approach. Smaller public companies make significant contributions to the financial markets and the economy more broadly. For context, 50% of all registered equity offerings during the 12-month period ended June 30, 2025 were done by smaller public companies.
+[20]
+Some of these investments may provide higher growth opportunities for investors. As such, we should take care to see that our regulations are not disproportionately burdensome on small businesses.
+One approach is through scaled disclosure for smaller companies. Key concepts such as the “Emerging Growth Company” (“EGC”) and “Smaller Reporting Company” (“SRC”) definitions have important implications for issuers—and can alleviate regulatory burdens while promoting capital formation.
+[21]
+Over 40% of companies (42.5%) must comply with the full scope of the Commission’s disclosure requirements.
+[22]
+If the Commission were to reduce this number to approximately 20%, the total number of additional companies that would be able to provide scaled disclosure requirements would increase by almost 1,400.
+[23]
+From an investor protection standpoint, however, those 20% of the companies still subject to the full scope of our disclosure requirements would represent almost 93.5% of total market public float.
+[24]
+Thus, it is important that the threshold definitions for being an EGC or SRC are appropriately calibrated as they will have a direct impact on the scope of applicable regulatory filing obligations. These definitions are not merely academic or administrative—they delineate the corresponding regulatory obligations that a company will face.
+For instance, SRCs illustrate how investors might expect differing disclosure obligations depending on the size of the company. An established pharmaceutical company with a trillion-dollar market capitalization should not be subject to the same disclosure standards as a biotech company with zero revenues and only one drug candidate in the development pipeline. For the former, there are potentially many Regulation S-K disclosure line items that will provide investors with information material to their investment decisions. For the latter, it is likely that there is primarily one key disclosure that investors are looking to: the milestones and status of the drug’s development.
+This scaled disclosure is logical given the more limited resources smaller companies frequently operate with. Smaller companies often have limited cash flow and likely have fewer resources than larger entities. Therefore, it is crucial that any regulatory adjustments take into account the circumstances of smaller companies—while maintaining key investor protection features. Instead of layering on additional requirements for all public companies, we should be thinking about whether existing rules could be further refined.
+The EGC definition is a useful example of how to structure a scaled disclosure framework, and potentially a starting point for right-sizing our rulebook. EGCs benefit from reduced disclosure requirements, which have proven to be beneficial for their development and growth. By providing these companies with a lighter regulatory burden, the EGC definition has facilitated their ability to raise capital while minimizing unnecessary regulatory burdens. This model underscores the importance of tailored regulatory approaches that consider the development stage of companies.
+There are benefits to being an EGC.
+[25]
+Emerging growth companies include less extensive narrative disclosure than other reporting companies, particularly in the description of executive compensation. They can provide audited financial statements for two fiscal years, in contrast to other reporting companies, which must provide audited financial statements for three fiscal years. They also do not include auditor attestation of internal controls over financial reporting under Sarbanes-Oxley Act Section 404(b) and are permitted to use test-the-waters communications with qualified institutional buyers and institutional accredited investors.
+Extending the time periods in which a company is eligible for scaled disclosure may also benefit public markets. Currently, a company generally continues to be an EGC for the first five fiscal years after it completes an IPO.
+[26]
+Expanding this time period by several years may yield further growth and investment opportunities.
+Lastly, expanding the use of Form S-3, which offers a faster and less costly registration process for certain offerings, could further alleviate regulatory challenges for smaller entities. By increasing eligibility for the use of Form S-3, we can provide more flexible options for follow-on offerings.
+In summary, careful consideration and thoughtful revisions to these definitions can provide growth and innovation for new companies, without imposing unnecessary constraints. By expanding on the success of the EGC model, and appropriately tailoring the disclosure and filing regimes, we can promote a landscape that supports all three elements of our tripartite mission.
+Reestablish the Focus on Financial Materiality in the SEC Rulebook
+Finally, the Commission must re-establish its focus on financial materiality in its regulatory regime. During recent years, regulatory agencies have sought to adopt standards based on non-financial social or environmental considerations. Such approaches were fashionable in many circles. Regulatory agencies, however, should strive to adopt standards that are grounded in the statutory authority granted to those agencies and focused on financial materiality. Regulators should aim to adopt neutral standards that are not tied to specific social or political philosophies and objectives and the Commission should not put its thumb on the scale in furtherance of such goals.
+This is especially true given that there is considerable skepticism as to whether ESG investment strategies yield superior returns.
+To conclude, I would like to acknowledge the efforts of the SEC staff over the past year. In particular, I would like to recognize Cicely LaMothe, who recently retired after 24 years of SEC. I am particularly grateful that Cicely agreed, when I asked her as the incoming Acting Chairman, if she would pull double duty as acting Corp Fin director in addition to her regular role as deputy director for the disclosure review program. I also would like to thank Corp Fin for loaning out one of their staff members — Gabe Eckstein — who has ably served for the past year as chief of staff to both me and Chairman Paul Atkins. Gabe now returns to Corp Fin as part of the new senior staff recently announced by Corp Fin director Jim Moloney.
+A year ago at this conference, the new Administration was barely in office. One of my first acts as Acting Chairman was to dispatch SEC staff to start the process of re-engaging with, rather than lecturing to, the corporate legal bar. I appreciate that you have accepted our offer to have a robust discussion of ideas rather than one-way edicts from the government. That conversation needs to continue along with hearing the views of investors. Thank you for your attention today, and thank you to the staff at Northwestern University for organizing this event. I look forward to future engagement on these topics.
+[1]
+My remarks today reflect my views as an individual Commissioner and not necessarily the views of the full Commission or my fellow Commissioners.
+[2]
+Interview with Alan B. Levenson, SEC Historical Society (Jan. 14, 2003), available at
+https://www.sechistorical.org/collection/oral-histories/levenson011404Transcript.pdf
+.
+[3]
+National Securities Markets Improvement Act of 1996, Pub. L. No. 104-290, 110 Stat. 3416 (1996).
+[4]
+Id,
+see also
+Reports for H.R.3005 H. Rept. 104-622.
+[5]
+Chairman John S.R. Shad,
+The SEC and Capital Formation
+(July 1981), at 1, available at
+https://www.sechistorical.org/collection/papers/1980/1981_0717_BakerShadT.pdf
+.
+[6]
+Id
+. at 2.
+[7]
+Investor Alert: Beware of Claims That the SEC Has Approved Offerings (April 30, 2019) available at
+https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/investor-alert-beware-claims-sec-has-approved-offerings
+.
+[8]
+Remarks at the “SEC Speaks” Conference 2022, Commissioner Mark T. Uyeda (Sept. 9, 2022) quoting Ferdinand Pecora, available at
+https://www.sec.gov/newsroom/speeches-statements/uyeda-speech-sec-speaks-090922
+.
+[9]
+Richard E. Rustin, Mitchell C. Lynch, Wall Street Journal, Apple Computer Set to Go Public Today; Massachusetts Bars Sale of Stock as Risky (Dec. 12, 1980).
+[10]
+Id
+.
+[11]
+Remarks by Chairman Alan Greenspan At the Annual Dinner and Francis Boyer Lecture of The American Enterprise Institute for Public Policy Research, Washington, D.C. (December 5, 1996) asking “…how do we know when irrational exuberance has unduly escalated asset values, which then become subject to unexpected and prolonged contractions …,” available at
+https://www.federalreserve.gov/boarddocs/speeches/1996/19961205.htm
+.
+[12]
+References to “items” throughout refer to items contained in Regulation S-K.
+[13]
+17 CFR § 229.404, Instructions to Item 404(a).
+[14]
+Statement on Reforming Regulation S-K, Paul S. Atkins, Chairman (Jan. 13, 2026) available at
+https://www.sec.gov/newsroom/speeches-statements/atkins-statement-reforming-regulation-s-k-011326
+.
+[15]
+17 CFR § 229.408.
+[16]
+17 CFR § 229.404.
+[17]
+17 CFR § 229.106.
+[18]
+17 CFR § 229.701.
+[19]
+17 CFR § 229.104.
+[20]
+SEC Office of the Advocate for Small Business Capital Formation, “Staff Report from the Office of the Advocate for Small Business Capital Formation Fiscal Year 2025,” at page 53 available at
+https://www.sec.gov/files/2025-oasb-staff-report.pdf
+.
+[21]
+See Emerging Growth Companies descriptions: https://www.sec.gov/resources-small-businesses/going-public/emerging-growth-companies.
+[22]
+Data from EDGAR, Calcbench.
+[23]
+Id
+.
+[24]
+Id
+.
+[25]
+For background refer to:
+https://www.sec.gov/resources-small-businesses/going-public/emerging-growth-companies
+.
+[26]
+Id
+.
+Last Reviewed or Updated:
+Jan. 28, 2026
+Return to top
+SEC homepage
+About the SEC
+Budget & Performance
+Careers
+Commission Votes
+Contact
+Contracts
+Transparency
+Accessibility & Disability
+Artificial Intelligence
+Cummings Notice
+FOIA
+Inspector General
+No FEAR Act Data
+Ombuds
+SEC Excess Personal Property Guidance
+Websites
+Investor.gov
+Related Sites
+USA.gov
+Site Information
+Plain Writing
+Privacy & Security
+Site Map
+Stay connected. Sign up for email updates.
+Your email address
+Sign Up
+X
+Facebook
+Instagram
+RSS
+YouTube
+Email Updates

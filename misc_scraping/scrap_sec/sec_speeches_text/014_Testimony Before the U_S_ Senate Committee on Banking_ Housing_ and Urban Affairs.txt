@@ -1,0 +1,194 @@
+Title: Testimony Before the U.S. Senate Committee on Banking, Housing, and Urban Affairs
+Link: https://www.sec.gov/newsroom/speeches-statements/atkins-testimony-sbhuac-021226
+Published: Thu, 12 Feb 2026 10:00:00 -0500
+
+SEC.gov | Testimony Before the U.S. Senate Committee on Banking, Housing, and Urban Affairs
+Skip to search field
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+A locked padlock
+)
+              or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+SEC homepage
+Menu
+Close
+Search SEC.gov & EDGAR
+Search
+Search Filings
+Search Filings
+Full Text Search
+Latest Filings
+Mutual Fund Search
+Variable Insurance Products Search
+SIC Codes
+CIK Lookup
+Public Dissemination Service (PDS)
+Search Assistance
+Submit Filings
+Submit Filings
+EDGAR Filer Management Portal
+EDGAR Filing Portal
+Online Forms Management Portal
+EDGAR Next
+Forms Index
+Filer Support & Resources
+Data & Research
+Data & Research
+SEC & Markets Data
+Taxonomies
+Statistics & Data Visualizations
+Rules, Enforcement, & Compliance
+Rules & Regulations
+Rulemaking Activity
+Statutes & Regulations
+Staff Guidance
+No-Action, Interpretive, and Exemptive Letters
+Self-Regulatory Organization Rulemaking
+Public Petitions for Rulemaking
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+Compliance
+Examination Priorities
+Risk Alerts
+Compliance Outreach Program
+Proposed Rules
+What's New
+Whistleblower Program
+Featured Topics
+Featured Topics
+Crypto Task Force
+Cybersecurity
+Market Structure Analytics
+Saving and Investing for Military Personnel
+Saving and Investing for Teachers
+SEC-CFTC Harmonization Initiative
+Treasury Clearing Implementation
+About
+About
+Mission
+Commissioners
+Divisions & Offices
+Division & Office Directors
+Advisory Committees
+Budget & Performance
+Reports & Publications
+Commission Votes
+Contact the SEC
+Careers
+Submit a Tip or Complaint
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Search SEC.gov & EDGAR
+Search
+More in this Section
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Home
+Newsroom
+Speeches and Statements
+Testimony Before the U.S. Senate Committee on Banking, Housing, and Urban Affairs
+Testimony
+Testimony Before the U.S. Senate Committee on Banking, Housing, and Urban Affairs
+Paul S. Atkins,
+Chairman
+Washington D.C.
+Feb. 12, 2026
+Chairman Scott, Ranking Member Warren, and Members of the Committee: It is an honor to testify before you today. Thank you for this opportunity to discuss the work of the U.S. Securities and Exchange Commission.
+[1]
+Nine months ago, I returned to the SEC with a clear mandate to recommit the agency to our core mission of protecting investors; maintaining fair, orderly, and efficient markets; and facilitating capital formation. I am grateful to work alongside dedicated public servants who have hit the ground running in pursuit of these priorities.
+America’s $124.3 trillion capital markets are the deepest and most liquid in the world, leading both in market capitalization and trading volume. They are a marvel of human ingenuity. Yet over the years, the federal government’s natural tendency has asserted itself, and rules have multiplied faster than the problems that they were intended to solve.
+This Congress and the Trump Administration are focused on bringing down the cost of living for the American people, and the SEC has a vital role to play. For example, public companies spend $2.7 billion a year to file their annual reports. This is $2.7 billion that companies are not reinvesting in their businesses to create jobs. $2.7 billion that our disclosure regime is diverting from your constituents to corporate lawyers, accountants, and consultants.
+Now, this is not to say that we want to gut corporate disclosure, which is vital. But we must modernize, rationalize, and streamline reports so that they are meaningful, understandable, and not a repellant to investors. After all, how many of you would read through an annual filing that rivals
+War and Peace
+? Disclosure documents of that length can do more to obscure than to illuminate.
+As I have stated previously, regulation ideally should be smart, effective, and appropriately tailored within the confines of our statutory authority. Instead, it has made the path to public ownership narrower, costlier, and saddled with rules that can create more friction than benefit.
+For context, shortly after I left the SEC in the mid-1990s, there were more than 7,800 companies listed on the U.S. exchanges. By the time that I returned as Chairman, that figure had fallen by roughly 40 percent.
+[2]
+This trajectory tells a cautionary tale of regulatory creep that the SEC is working to rectify through the three pillars of my plan to make IPOs great again: first, re-anchoring disclosures in materiality so that investment decisions can turn on economic signals rather than on regulatory noise; second, de-politicizing shareholder meetings by restoring their focus to significant corporate matters; and third, allowing public companies to have litigation alternatives so that we shield innovators from the frivolous and investors from the fraudulent. I also applaud the bipartisan initiatives that you are considering in Congress, including those in the Senate’s Empowering Main Street in America Act and the House’s INVEST Act, to help keep America’s capital markets open, dynamic, and, above all, worthy of the trust that investors place in them.
+Of course, I also support congressional efforts to enact the CLARITY Act. Upon its passage, the Commission stands ready to implement this landmark legislation. A federal framework for crypto markets is long overdue. Under Commissioner Hester Peirce’s leadership of our Crypto Task Force, SEC staff has provided more clarity in the past year than in the prior decade, but there is no action we can take that future-proofs our rulebook more formidably than nonpartisan market structure legislation.
+As Congress completes its vital work, CFTC Chairman Mike Selig and I intend to provide a bridge toward legislation. Through our now-joint Project Crypto, we will consider a token taxonomy to offer both investors and innovators a clear understanding of their regulatory obligations. We will also look to consider exemptions that would allow market participants to move and transact on-chain.
+Now, as we modernize oversight for digital assets, we must also reassess whether our legacy tools for traditional markets remain appropriately aligned with regulatory need and the public interest, which brings me to the Consolidated Audit Trail (CAT). I have directed SEC staff to conduct a comprehensive review of the CAT, which will consider, among other things, issues related to governance, funding, potential cost-savings measures (including potential retirement of duplicative systems), design, functionality, scope, regulatory use, and security. As the staff undertake this review, I note that the Commission has already taken steps to meaningfully reduce the costs of the CAT system which, when established in November 2016, estimated to total, at the upper end, about $55 million annually. Thanks in part to an amendment to the CAT NMS Plan approved by the Commission in 2024 and conditional exemptive relief issued by the Commission in 2025, we have reduced the originally-approved CAT budget for 2025—which included approximately $249 million in annual operating costs—by approximately $92 million over the course of the year.
+The Commission has also recently approved amendments to the CAT NMS Plan with respect to the Customer and Account Information System that self-regulatory organizations (SROs) state would result in an approximately $7-9 million in cost savings annually. In addition, the SROs recently proposed further amendments to the CAT NMS Plan to implement certain measures that would further reduce costs significantly.
+Those cost reductions reflect the SEC’s broader commitment to disciplined oversight across our regulatory ecosystem. In January 2026, for example, the SEC approved the Public Company Accounting Oversight Board (PCAOB) budget, totaling $362.1 million—a 9.4 percent ($37.6 million) decrease from the prior year, including a 52 percent and 42 percent reduction in the Chairman’s and other Board members’ compensation, respectively.
+As the SEC and the PCAOB often work closely on matters important to our capital markets, I am also pleased that the Commission recently appointed new Board members who bring a wide variety of experiences to their service. When we began the search process, I highlighted the role that the PCAOB plays in serving the public interest by helping to protect the integrity of public companies through oversight of auditing firms, and thus the broader public markets, in a manner that minimizes unnecessary costs for the public companies and broker-dealers who ultimately fund the PCAOB’s budget. The newly appointed Chairman and Board Members have already demonstrated a profound commitment to protecting investors and responsible use of such funds by accepting compensation much more in line with the ethos of public service. The Chairman has extensive experience in management of a large organization and examinations work. I am confident that this new Board will usher in a new day at the PCAOB—one of sensible, more effective, and more efficient oversight of auditors.
+Finally, and most fundamentally, capital markets thrive on many factors, but they endure on the trust of those who participate in them. Investor protection is at the core of what brings us to work each day. And to fulfill that charge, the SEC is returning its enforcement program to first principles of rooting out fraud and remedying investor harm.
+Since I rejoined the Commission last year, we have brought enforcement actions to address offering frauds, insider trading, accounting and financial frauds, and breaches of fiduciary duty by investment advisers. In the fall, meanwhile, we announced the Division of Enforcement’s Cross-Border Task Force to strengthen and enhance our efforts to identify and combat cross-border fraud. Since September, we have suspended trading in the stocks of fourteen Asia-based issuers on evidence of potential manipulation designed to artificially inflate the price and volume of the securities. I am working within the securities laws to protect investors from those who seek to use international borders to evade and undermine U.S. investor protections. Markets are global. Investor protection must be as well.
+As I said at the outset of this testimony, the SEC is returning to a core mission that remains as vital today as it was when Congress first set it for us over 90 years ago. So, I want to thank this Committee once again for convening today’s hearing. I look forward to answering your questions and to our shared work ahead. Thank you.
+[1]
+The views expressed in this testimony are those of the Chairman of the U.S. Securities and Exchange Commission and do not necessarily represent the views of the President, the full Commission, or any Commissioner.
+[2]
+As of September 30, 2025, there were 4,761 exchange-listed companies.
+Last Reviewed or Updated:
+Feb. 12, 2026
+Return to top
+SEC homepage
+About the SEC
+Budget & Performance
+Careers
+Commission Votes
+Contact
+Contracts
+Transparency
+Accessibility & Disability
+Artificial Intelligence
+Cummings Notice
+FOIA
+Inspector General
+No FEAR Act Data
+Ombuds
+SEC Excess Personal Property Guidance
+Websites
+Investor.gov
+Related Sites
+USA.gov
+Site Information
+Plain Writing
+Privacy & Security
+Site Map
+Stay connected. Sign up for email updates.
+Your email address
+Sign Up
+X
+Facebook
+Instagram
+RSS
+YouTube
+Email Updates
